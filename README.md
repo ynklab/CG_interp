@@ -10,6 +10,10 @@ pip install -r requirements.txt
 ## Directory Structure
 This repository follows the structure below:
 ```
-CG_interp/ │── src/ # Contains the source code │── data/ # Contains datasets |  |--- base/ # For training |  |-- scrub # For concept scrubbing
+CG_interp/
+│── src/ # Contains the source code
+│── data/ # Contains datasets
+|  |── base/ # For training
+|  |── scrub # For concept scrubbing
 ```
 ## Usage
