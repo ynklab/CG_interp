@@ -1,0 +1,1000 @@
+N/A 友達 N/A N/A ヘリコプター N/A 与えられ N/A ヨーグルト N/A N/A 教師 N/A N/A 
+N/A 公爵 N/A N/A 戸棚 N/A N/A 猫 聞いた N/A N/A 
+N/A 本 N/A N/A テーブル N/A 貸され N/A N/A 母 N/A N/A 
+N/A 運転手 N/A N/A バッグ N/A 貸され N/A 本 N/A N/A 
+N/A 子供 N/A N/A 絵 呼んだ N/A N/A 
+N/A 友達 N/A N/A パン屋 踊った N/A N/A 
+N/A 子供 N/A N/A テーブル N/A 提供され N/A 本 N/A N/A 
+N/A 母 N/A N/A 城 気づいた N/A 兵士 N/A N/A 機械 N/A N/A 
+N/A 父 N/A N/A ボード 見つけた N/A 犬 N/A N/A 
+N/A 本 N/A N/A 列車 N/A 描かれ N/A N/A 
+N/A 友達 N/A N/A 本 見つけた N/A 帽子 N/A N/A 
+N/A ヒーロー N/A N/A 家 知っていた エリザベス N/A N/A 
+N/A 母 N/A N/A コップ N/A N/A 家 N/A 送られ N/A 新聞 N/A N/A 少女 N/A N/A 
+N/A 本 N/A N/A 道路 N/A 提供され N/A N/A 子供 N/A N/A 
+N/A 本 N/A N/A 聖書 N/A 提供され N/A N/A 友達 N/A オリビア N/A N/A 
+N/A 旗 N/A N/A 本 N/A 見つけた N/A N/A 
+N/A 教師 N/A N/A 家 N/A あげられ N/A 本 N/A N/A トラ N/A N/A 
+N/A 本 N/A N/A 椅子 N/A N/A 家 N/A 持った N/A N/A 
+N/A ゲーム N/A N/A 道路 N/A 見られ N/A N/A 
+N/A 子供 N/A N/A 道路 見つけた N/A 学生 N/A N/A ベッド N/A N/A 
+N/A 少女 N/A N/A 城 あげた N/A 子供 N/A 風船 N/A N/A 
+N/A 貝殻 N/A N/A 引き出し N/A 見られ N/A エマ N/A N/A 
+N/A 本 N/A N/A 家 改善した N/A N/A 
+N/A 母 N/A N/A 本 N/A N/A 道路 N/A 憧れた N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 本 走った N/A N/A 
+N/A 椅子 N/A N/A 部屋 N/A 転がした N/A N/A 学生 N/A N/A 
+N/A 子供 N/A N/A バケツ 調べた N/A N/A 
+N/A 植物 N/A N/A 家 N/A 見つけた N/A アヴァ N/A N/A 
+N/A 友達 N/A N/A 家 あげた N/A 訪問者 N/A 結晶 N/A N/A 
+N/A 子供 N/A N/A 本 変えた N/A ディーラー N/A N/A 
+N/A 七面鳥 N/A N/A 部屋 送った N/A 本 N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 布 赤くした N/A N/A 
+N/A 客 N/A N/A 本 聞いた N/A N/A 
+N/A 本 N/A N/A ボトル N/A 渡され N/A オリビア N/A セオドア N/A N/A 
+N/A 市民 N/A N/A 本 知っていた N/A 少年 N/A N/A 
+N/A カエル N/A N/A 道路 にやにや笑った N/A N/A 
+N/A 鍵 N/A N/A 本 N/A 見つけた N/A N/A 船長 N/A N/A 
+N/A 鳥 N/A N/A テーブル N/A あげられ N/A 鍵 N/A リアム N/A N/A 
+N/A 医者 N/A N/A 本 ジャグリングした N/A ブラシ N/A N/A 
+N/A 子供 N/A N/A カップ 持った N/A 政治家 N/A N/A 木 N/A N/A 
+N/A 訪問者 N/A N/A 本 持った イーサン N/A N/A 
+N/A 教師 N/A N/A 本 N/A 感謝した N/A N/A 学生 N/A N/A 
+N/A バッグ N/A N/A 家 N/A 描いた N/A N/A 友達 N/A N/A 
+N/A 本 N/A N/A 箱 N/A N/A 戸棚 N/A 郵送され N/A N/A 母 N/A N/A 
+N/A 本 N/A N/A 家 N/A N/A 宮殿 N/A 貸され N/A N/A 大統領 N/A N/A 父 N/A N/A 
+N/A 少女 N/A N/A 家 N/A N/A 木 見つけた リアム N/A N/A 
+N/A 公爵 N/A N/A 砂利 変えた N/A 植物 N/A N/A 
+N/A 子供 N/A N/A バッグ 眉をひそめた N/A N/A 
+N/A ゲーム N/A N/A ベンチ N/A 見つけた N/A N/A 
+N/A 本 N/A N/A 塔 N/A 電報され N/A N/A 患者 N/A N/A 
+N/A 子供 N/A N/A 家 看護した N/A N/A 
+N/A 子供 N/A N/A 家 売った N/A 観光客 N/A ギター N/A N/A 
+N/A 子供 N/A N/A 家 あげた N/A 帽子 N/A N/A 患者 N/A N/A 
+N/A 学生 N/A N/A 包装 N/A N/A 道路 調べた N/A N/A 
+N/A 靴 N/A N/A 樽 N/A N/A オオカミ N/A 綺麗にした N/A N/A 公爵 N/A N/A 
+N/A 瓶 N/A N/A 木 N/A N/A 水たまり N/A 描かれ N/A N/A 
+N/A 子供 N/A N/A 包装 N/A 助けた N/A N/A 
+N/A 植物 N/A N/A 家 N/A スケッチした N/A N/A 
+N/A 子供 N/A N/A 王座 N/A 持った N/A N/A 
+N/A ゲスト N/A N/A テーブル そっと渡した N/A ゲーム N/A N/A 子供 N/A N/A 
+N/A 消費者 N/A N/A 庭 愛した N/A 生き物 N/A N/A 
+N/A 王子 N/A N/A 庭 持った N/A バケツ N/A N/A 本 N/A N/A 
+N/A 消費者 N/A N/A ケーキ N/A N/A 砂利 好きだった クリストファー N/A N/A 
+N/A 友達 N/A N/A 本 N/A N/A 家 あげた N/A 鍵 N/A N/A 少女 N/A N/A 
+N/A 消費者 N/A N/A 家 呼んだ N/A N/A 
+N/A ケーキ N/A N/A ベビーベッド N/A 見られ N/A N/A 
+N/A 脳 N/A N/A 車 N/A 突き刺した N/A N/A 
+N/A ホスト N/A N/A ステージ N/A あげられ N/A 本 N/A リアム N/A N/A 
+N/A 母 N/A N/A 車 N/A そっと渡され N/A 本 N/A N/A 家 N/A N/A 
+N/A 本 N/A N/A 列車 N/A 郵送され N/A N/A 少女 N/A N/A 患者 N/A N/A 
+N/A 猿 N/A N/A 家 くしゃみをした N/A N/A 
+N/A 消費者 N/A N/A 庭 提供した N/A ゲーム N/A N/A 子供 N/A N/A 
+N/A 友達 N/A N/A テーブル 知っていた エイデン N/A N/A 
+N/A 友達 N/A N/A アヒル 好きだった N/A ゲーム N/A N/A 
+N/A 本 N/A N/A 家 N/A N/A ボール N/A 持った N/A N/A 
+N/A 子供 N/A N/A 本 提供した N/A 少女 N/A 新聞 N/A N/A 
+N/A 警備員 N/A N/A 本 ほこりを払った N/A 葉 N/A N/A 道路 N/A N/A 
+N/A 豚 N/A N/A 家 N/A N/A 倉庫 約束した N/A 母 N/A 花 N/A N/A 
+N/A 本 N/A N/A 木箱 変えた N/A N/A 
+N/A 教師 N/A N/A コンピューター N/A 持った N/A N/A 学生 N/A N/A 
+N/A 友達 N/A N/A 岩 N/A 持ってこられ N/A 本 N/A N/A 
+N/A プレゼント N/A N/A カップ N/A 知られ N/A N/A 大統領 N/A N/A 
+N/A 子供 N/A N/A テーブル 呼んだ N/A N/A 
+N/A 学生 N/A N/A 容器 N/A 送られ N/A 植物 N/A N/A 運転手 N/A N/A 
+N/A 客 N/A N/A カップ 話した N/A N/A 
+N/A 農家 N/A N/A 本 提供した N/A 少年 N/A ビール N/A N/A ベッド N/A N/A 
+N/A 母 N/A N/A カップ N/A 貸され N/A バッグ N/A N/A 
+N/A 友達 N/A N/A ベッド 気づいた N/A N/A 
+N/A 怪物 N/A N/A 列車 あげた N/A 子供 N/A 鏡 N/A N/A 
+N/A 植物 N/A N/A 本 N/A 見られ N/A N/A 子供 N/A N/A 
+N/A 父 N/A N/A 樽 踊った N/A N/A 
+N/A キリン N/A N/A 犬 N/A N/A ボード 発見した N/A 本 N/A N/A 
+N/A 子供 N/A N/A タクシー 育てた N/A N/A 
+N/A 少女 N/A N/A 丸太 壊した N/A 鍵 N/A N/A 
+N/A 本 N/A N/A 道路 N/A N/A 家 N/A 返され N/A リアム N/A N/A 
+N/A 本 N/A N/A 箱 N/A あげられ N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 道路 知っていた N/A N/A 
+N/A 王女 N/A N/A スープ N/A そっと渡され N/A 本 N/A N/A 部屋 N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A 人形 N/A N/A 家 聞いた リアム N/A N/A 
+N/A 本 N/A N/A 箱 N/A N/A ランプ N/A 描いた N/A N/A 
+N/A 政治家 N/A N/A スープ 変えた N/A N/A 
+N/A バッグ N/A N/A 家 N/A N/A パネル N/A 持った N/A N/A 作家 N/A N/A 
+N/A 友達 N/A N/A 家 N/A 転送され N/A 本 N/A N/A 母 N/A N/A 
+N/A 子供 N/A N/A 席 売った N/A 子供 N/A ボール N/A N/A 
+N/A ワイン N/A N/A 家 N/A 持ってこられ N/A オリビア N/A N/A 研究者 N/A N/A 
+N/A 母 N/A N/A 本 持ってきた N/A 皿 N/A N/A 知事 N/A N/A 
+N/A 子供 N/A N/A コップ 助けた N/A 本 N/A N/A 
+N/A バナナ N/A N/A ボート N/A 見られ N/A N/A 
+N/A 本 N/A N/A 人形 N/A N/A 車 N/A 郵送され N/A リアム N/A N/A 
+N/A 本 N/A N/A 宮殿 N/A N/A 家 N/A 売られ N/A オリビア N/A リアム N/A N/A 
+N/A 子供 N/A N/A 本 返した N/A 母 N/A 靴 N/A N/A 
+N/A 本 N/A N/A 家 しわくちゃにした N/A N/A 
+N/A 子供 N/A N/A キーボード N/A N/A 木 N/A 持った N/A N/A 
+N/A 子供 N/A N/A 家 N/A 提供され N/A 本 N/A N/A ジャーナリスト N/A N/A 
+N/A 友達 N/A N/A 棺 N/A N/A 木 N/A 受け入れた N/A N/A 
+N/A 学生 N/A N/A 部屋 N/A あげられ N/A 本 N/A ジャクソン N/A N/A 
+N/A 友達 N/A N/A 本 渡した N/A ワイン N/A N/A ベンチ N/A N/A 子供 N/A N/A 
+N/A 母 N/A N/A 箱 見つけた N/A 果物 N/A N/A スピーカー N/A N/A 
+N/A ゲーム N/A N/A 車 N/A 見つけた N/A N/A 
+N/A 猫 N/A N/A ボール 持った N/A 大統領 N/A N/A 車 N/A N/A 
+N/A 患者 N/A N/A キツネ あげた N/A ヨーグルト N/A N/A 猫 N/A N/A 
+N/A 生き物 N/A N/A 角 知っていた N/A N/A 
+N/A ワイン N/A N/A トランク N/A 勉強した N/A N/A 
+N/A 家主 N/A N/A 花 尊敬した N/A 教師 N/A N/A 
+N/A 子供 N/A N/A 家 知っていた N/A コーチ N/A N/A 
+N/A 子供 N/A N/A 本 N/A 送られ N/A ゲーム N/A N/A 
+N/A 猫 N/A N/A ピアノ N/A N/A 家 N/A 持った N/A N/A 
+N/A ロバ N/A N/A 家 N/A N/A 本 変えた N/A N/A 
+N/A 教師 N/A N/A 紙 N/A N/A 干し草の山 N/A 尊敬した N/A N/A 医者 N/A N/A 
+N/A 本 N/A N/A カップ N/A 提供され N/A N/A 母 N/A N/A 
+N/A 子供 N/A N/A ステージ N/A 与えられ N/A 本 N/A シャーロット N/A N/A 
+N/A 本 N/A N/A 道路 N/A 郵送され N/A N/A 子供 N/A N/A 豚 N/A N/A 
+N/A 父 N/A N/A 本 N/A N/A ボトル N/A 渡され N/A 指輪 N/A N/A 
+N/A ジャケット N/A N/A 車 N/A 見られ N/A N/A 
+N/A 友達 N/A N/A 家 N/A 売られ N/A 本 N/A N/A 
+N/A 患者 N/A N/A 本 スケッチした N/A N/A 
+N/A 犬 N/A N/A 乗り物 N/A 変えた N/A N/A 
+N/A 学生 N/A N/A 箱 変えた N/A N/A 
+N/A 少女 N/A N/A 本 壊した N/A N/A 
+N/A 教師 N/A N/A 部屋 N/A 改善した N/A N/A 
+N/A マネージャー N/A N/A 部屋 N/A N/A 機械 提供した N/A ウサギ N/A サンドイッチ N/A N/A 
+N/A 牛 N/A N/A 絵 N/A あげられ N/A 植物 N/A N/A 道路 N/A N/A 
+N/A 子供 N/A N/A 家 走った N/A N/A 
+N/A 本 N/A N/A 家 N/A N/A 道路 N/A あげられ N/A N/A 少年 N/A N/A 医者 N/A N/A 
+N/A コイン N/A N/A 紙 N/A 投げた N/A N/A 女王 N/A N/A 
+N/A 本 N/A N/A 道路 N/A 持った N/A N/A 子供 N/A N/A 
+N/A 少年 N/A N/A ターンテーブル 壊した N/A N/A 
+N/A 雲 N/A N/A 家 N/A 見られ N/A N/A 
+N/A ベル N/A N/A 家 N/A 見つけた N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A 本 N/A N/A クッキー あげた エリジャ N/A 飲み物 N/A N/A 
+N/A 子供 N/A N/A スピーカー N/A N/A 容器 与えた N/A 植物 N/A カーター N/A N/A 
+N/A 本 N/A N/A 宮殿 N/A N/A 道路 N/A あげられ N/A N/A 子供 N/A ノア N/A N/A 
+N/A 友達 N/A N/A 部屋 N/A 育てられ N/A ジャクソン N/A N/A 
+N/A 友達 N/A N/A 庭 調査した N/A 犬 N/A N/A 
+N/A 子供 N/A N/A 家 あげた N/A 風船 N/A N/A カーペット N/A N/A 長 N/A N/A 
+N/A 父 N/A N/A 本 N/A 持った N/A N/A 
+N/A 子供 N/A N/A 本 壊した N/A N/A 
+N/A 教師 N/A N/A ビーチ N/A 改善した N/A N/A 科学者 N/A N/A 
+N/A 子供 N/A N/A 犬 N/A N/A 車 N/A 持った N/A N/A 
+N/A 子供 N/A N/A バッグ N/A N/A 戸棚 N/A 貸され N/A 鍵 N/A N/A 
+N/A 女王 N/A N/A 家 あげた N/A 植物 N/A N/A 車 N/A N/A マネージャー N/A N/A 
+N/A 子供 N/A N/A 家 送った N/A ケーキ N/A シャーロット N/A N/A 
+N/A 農家 N/A N/A シンク N/A 助けた N/A N/A 友達 N/A N/A 
+N/A ボール N/A N/A ビーチ N/A 狩った N/A N/A 
+N/A 市民 N/A N/A 家 呼んだ N/A N/A 
+N/A 子供 N/A N/A 家 知っていた N/A N/A 
+N/A 母 N/A N/A 本 話した N/A N/A 
+N/A 作家 N/A N/A 道路 N/A N/A ボート ジョギングした N/A N/A 
+N/A 子供 N/A N/A 部屋 調査した N/A N/A 
+N/A 椅子 N/A N/A 道路 N/A N/A コンピューター 燃やした N/A N/A 
+N/A 皿 N/A N/A 家 N/A 見つけた N/A N/A 
+N/A 少女 N/A N/A 靴下 短くした N/A N/A 
+N/A プレゼント N/A N/A 床 N/A あげられ N/A N/A 作家 N/A N/A 少女 N/A N/A 
+N/A 友達 N/A N/A 戸棚 N/A N/A 竜 倍にした N/A N/A 
+N/A 父 N/A N/A シーツ N/A N/A ステージ N/A あげられ N/A 本 N/A リアム N/A N/A 
+N/A 本 N/A N/A 家 変えた N/A N/A 
+N/A 新聞 N/A N/A 席 N/A 拡大した N/A N/A 
+N/A 母 N/A N/A 穴 N/A 提供され N/A 本 N/A N/A ステージ N/A N/A 
+N/A 友達 N/A N/A 家 N/A N/A 部屋 N/A 提供され N/A 本 N/A N/A 
+N/A 母 N/A N/A 大皿 N/A 持った N/A N/A 
+N/A 本 N/A N/A 道路 N/A N/A コップ N/A あげられ N/A N/A 子供 N/A リアム N/A N/A 
+N/A 子供 N/A N/A 道路 知っていた N/A N/A 
+N/A 子猫 N/A N/A 枝 変えた N/A N/A 
+N/A 友達 N/A N/A 戸棚 知っていた N/A 少年 N/A N/A 
+N/A 少年 N/A N/A 家 見つけた N/A 母 N/A N/A 部屋 N/A N/A 
+N/A 患者 N/A N/A 本 N/A あげられ N/A ボール N/A N/A 
+N/A 友達 N/A N/A 飾り額 見つけた N/A 本 N/A N/A 包装 N/A N/A 
+N/A 母 N/A N/A トレイ N/A 渡され N/A ボール N/A N/A 
+N/A 鶏 N/A N/A 家 貸した N/A 鏡 N/A N/A 子供 N/A N/A 
+N/A 客 N/A N/A 庭 返した N/A 教師 N/A ギター N/A N/A 家 N/A N/A 
+N/A 子供 N/A N/A 家 描いた N/A 本 N/A N/A 
+N/A 豚 N/A N/A 岩 居眠りした N/A N/A 
+N/A 子供 N/A N/A 道路 N/A N/A 家 N/A 助けた N/A N/A 
+N/A 本 N/A N/A 家 改善した N/A N/A 
+N/A チャンピオン N/A N/A 袋 N/A N/A 箱 見つけた N/A カップ N/A N/A 
+N/A 子供 N/A N/A ボウル 綺麗にした N/A N/A 
+N/A 観光客 N/A N/A 家 呼んだ リアム N/A N/A 
+N/A チョーク N/A N/A 車 N/A 見つけた N/A N/A 
+N/A 本 N/A N/A タオル N/A あげられ N/A N/A 政治家 N/A N/A 患者 N/A N/A 
+N/A 本 N/A N/A 書架 N/A 逃した N/A N/A 
+N/A 子供 N/A N/A 本 浮かせた N/A N/A 
+N/A 王女 N/A N/A 本 N/A N/A ボウル N/A 助けた N/A リアム N/A N/A 
+N/A 人間 N/A N/A シリンダー 知っていた N/A 子供 N/A N/A 
+N/A 友達 N/A N/A 家 知っていた N/A 少女 N/A N/A 
+N/A 子供 N/A N/A 車 知っていた N/A ゲーム N/A N/A 
+N/A 子供 N/A N/A 車 N/A 触った N/A N/A 
+N/A 子供 N/A N/A 家 N/A 触った N/A N/A 
+N/A 友達 N/A N/A 彫刻 走った N/A N/A 
+N/A 本 N/A N/A テーブル N/A 包んだ N/A N/A 
+N/A 警備員 N/A N/A 道路 知っていた N/A N/A 
+N/A ボール N/A N/A 席 N/A 渡され N/A リアム N/A N/A 子供 N/A N/A 
+N/A 少女 N/A N/A 本 送った N/A 監督 N/A 植物 N/A N/A 
+N/A 箱 N/A N/A 本 N/A N/A 部屋 N/A 投げられ N/A N/A 友達 N/A N/A 
+N/A 魚 N/A N/A 家 N/A そっと渡され N/A 本 N/A N/A 子供 N/A N/A 
+N/A 椅子 N/A N/A 庭 転がした N/A N/A 
+N/A 子供 N/A N/A ステージ 知っていた N/A N/A 
+N/A 子供 N/A N/A コップ N/A 助けた N/A N/A 
+N/A ラジオ N/A N/A ベッド N/A N/A テーブル N/A 気づいた N/A ジェームズ N/A N/A 
+N/A 子供 N/A N/A ステージ 知っていた N/A 監督 N/A N/A 
+N/A ジャーナリスト N/A N/A 道路 あげた N/A 少女 N/A メロン N/A N/A 家 N/A N/A 
+N/A 花 N/A N/A 紙 N/A 見られ N/A リアム N/A N/A 
+N/A 船長 N/A N/A 家 N/A N/A 本 呼んだ N/A N/A 
+N/A 買い手 N/A N/A スツール N/A N/A ステージ N/A あげられ N/A 本 N/A ノア N/A N/A 
+N/A 警備員 N/A N/A 演壇 走った N/A N/A 
+N/A 消費者 N/A N/A 道路 転送した N/A 友達 N/A ブロック N/A N/A バッグ N/A N/A 
+N/A 植物 N/A N/A 彫刻 N/A N/A コンピューター N/A あげられ N/A N/A 蝶 N/A N/A 
+N/A 子供 N/A N/A ソファ 調べた N/A N/A 
+N/A 母 N/A N/A 車 育てた N/A N/A 
+N/A 母 N/A N/A 車 触った N/A 子供 N/A N/A ステージ N/A N/A 
+N/A 患者 N/A N/A 家 N/A 持った N/A N/A 
+N/A 犬 N/A N/A 本 話した N/A N/A 
+N/A 本 N/A N/A 車 N/A N/A バスケット N/A あげられ N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 猫 N/A 電報され N/A 本 N/A リアム N/A N/A 
+N/A 母 N/A N/A 宮殿 送った N/A 子供 N/A 箱 N/A N/A 家 N/A N/A 
+N/A 子供 N/A N/A 本 N/A 助けた N/A リアム N/A N/A 
+N/A 魚 N/A N/A コンピューター N/A あげられ N/A 靴 N/A アイザック N/A N/A 
+N/A 鍵 N/A N/A 棺 N/A 描かれ N/A エマ N/A N/A 
+N/A 子供 N/A N/A ブロック 聞いた ダニエル N/A N/A 
+N/A 子供 N/A N/A 車 変えた N/A N/A 
+N/A 父 N/A N/A 家 受け入れた N/A 子供 N/A N/A 
+N/A マネージャー N/A N/A ステージ N/A N/A 犬 知っていた N/A N/A 
+N/A 子供 N/A N/A 小個室 N/A N/A 床 倍にした N/A N/A 
+N/A 子供 N/A N/A 家 N/A N/A 書店 知っていた N/A N/A 
+N/A 教師 N/A N/A 家 N/A 評価した N/A リアム N/A N/A 
+N/A 作家 N/A N/A 車 育てた N/A N/A 
+N/A 学生 N/A N/A 紙 持ってきた N/A チャンピオン N/A トウモロコシ N/A N/A 本 N/A N/A 
+N/A 友達 N/A N/A 本 助けた セオドア N/A N/A 
+N/A 父 N/A N/A 本 N/A 持った N/A N/A 
+N/A 患者 N/A N/A 道路 綺麗にした N/A 椅子 N/A N/A 
+N/A ゲーム N/A N/A 家 N/A 調べた N/A オリバー N/A N/A 
+N/A 患者 N/A N/A 家 返した N/A 本 N/A N/A 紙 N/A N/A 子供 N/A N/A 
+N/A 大統領 N/A N/A 片手鍋 N/A N/A ピアノ 走った N/A N/A 
+N/A 子供 N/A N/A 家 走った N/A N/A 
+N/A 友達 N/A N/A 本 貸した N/A ペン N/A N/A 羊 N/A N/A 
+N/A 母 N/A N/A 家 N/A あげられ N/A ボール N/A N/A 魚 N/A N/A 
+N/A 子供 N/A N/A 穴 走った N/A N/A 
+N/A ボール N/A N/A 本 N/A あげられ N/A リアム N/A N/A 
+N/A バッグ N/A N/A 紙 N/A 見られ N/A N/A 
+N/A 父 N/A N/A 紙 N/A N/A 家 壊した N/A N/A 
+N/A 子供 N/A N/A 家 N/A N/A 丸太 変えた N/A N/A 
+N/A 本 N/A N/A ビーチ N/A 見つけた N/A N/A 子供 N/A N/A 
+N/A 市民 N/A N/A 道路 滑らせた N/A 子供 N/A N/A 家 N/A N/A 
+N/A 豚 N/A N/A 車 壊した N/A N/A 
+N/A 子供 N/A N/A 部屋 あげた N/A 人形 N/A N/A 教師 N/A N/A 
+N/A 本 N/A N/A 剣 改善した N/A N/A 
+N/A 患者 N/A N/A 家 N/A N/A 車 知っていた N/A N/A 
+N/A 本 N/A N/A 修道院 N/A 持った N/A N/A 監督 N/A N/A 
+N/A ヒーロー N/A N/A 本 綺麗にした リアム N/A N/A 
+N/A 子供 N/A N/A 家 郵送した N/A 新聞 N/A N/A 母 N/A N/A 
+N/A 運転手 N/A N/A テーブル N/A N/A 本 歩いた N/A N/A 
+N/A 子供 N/A N/A 家 あざ笑った N/A N/A 
+N/A 子供 N/A N/A 家 好きだった N/A ワイン N/A N/A 
+N/A 子供 N/A N/A 本 N/A N/A 落とし穴 勉強した N/A N/A 
+N/A 子供 N/A N/A パネル N/A 売られ N/A 本 N/A N/A 席 N/A N/A 
+N/A 本 N/A N/A テーブル N/A 崇拝した N/A リアム N/A N/A 
+N/A ゲーム N/A N/A コップ N/A 変えた N/A N/A 
+N/A 患者 N/A N/A 花瓶 N/A N/A 宇宙船 食べた リアム N/A N/A 
+N/A 本 N/A N/A 大きな石 N/A あげられ N/A N/A 子供 N/A N/A 患者 N/A N/A 
+N/A 父 N/A N/A カップ 勉強した ルーカス N/A N/A 
+N/A 本 N/A N/A ピラミッド N/A 送られ N/A ノア N/A N/A 
+N/A 患者 N/A N/A 本 N/A 貸され N/A ゲーム N/A N/A 
+N/A 子供 N/A N/A 家 転送した エマ N/A ブロック N/A N/A 
+N/A 子供 N/A N/A 容器 走った N/A N/A 
+N/A 犬 N/A N/A ベッド N/A 持った N/A N/A 
+N/A ライオン N/A N/A 家 話した N/A N/A 
+N/A 子供 N/A N/A 本 割った N/A N/A 
+N/A 本 N/A N/A スープ N/A あげられ N/A N/A 子供 N/A N/A 
+N/A シマウマ N/A N/A 家 知っていた N/A ラジオ N/A N/A 
+N/A 子供 N/A N/A バックパック 約束した N/A 母 N/A 花 N/A N/A 
+N/A 生徒 N/A N/A 本 N/A N/A 樽 提供した N/A 鍵 N/A N/A 王 N/A N/A 
+N/A 子供 N/A N/A 家 N/A 持った N/A N/A 
+N/A 少年 N/A N/A 棒 あげた N/A 子供 N/A クッキー N/A N/A 
+N/A 大統領 N/A N/A ライオン 踊った N/A N/A 
+N/A 居住者 N/A N/A 本 変えた N/A N/A 
+N/A 箱 N/A N/A カップ N/A 観察した N/A ノア N/A N/A 
+N/A 友達 N/A N/A 本 浮かせた N/A 風船 N/A N/A 
+N/A 道具 N/A N/A 道路 N/A 勉強した N/A N/A 
+N/A 教師 N/A N/A バッグ N/A 持った N/A リアム N/A N/A 
+N/A 羊 N/A N/A 外国人 走った N/A N/A 
+N/A 患者 N/A N/A ステージ 見つけた ノア N/A N/A 
+N/A 少女 N/A N/A 道路 N/A N/A 机 笑った N/A N/A 
+N/A ゲーム N/A N/A 家 N/A 売られ N/A N/A 大統領 N/A N/A 母 N/A N/A 
+N/A 子供 N/A N/A 車 あげた N/A 本 N/A N/A ライオン N/A N/A 
+N/A 子供 N/A N/A 大男 狩った N/A ボール N/A N/A 
+N/A 父 N/A N/A 本 N/A N/A 家 持った N/A テナント N/A N/A 
+N/A オオカミ N/A N/A 家 ジャグリングした エヴリン N/A N/A 
+N/A 鳥 N/A N/A 本 呼んだ N/A 子供 N/A N/A 
+N/A 人間 N/A N/A 花瓶 N/A N/A リーフレット 郵送した N/A 学生 N/A 新聞 N/A N/A 
+N/A 父 N/A N/A はしご N/A 約束され N/A 本 N/A N/A テント N/A N/A 鶏 N/A N/A 
+N/A 友達 N/A N/A ベッド 知っていた ジャクソン N/A N/A 
+N/A 学生 N/A N/A 紙 評価した N/A 大統領 N/A N/A 本 N/A N/A 
+N/A 子供 N/A N/A 本 N/A N/A 家 知っていた N/A N/A 
+N/A ジャーナリスト N/A N/A ステージ 走った N/A N/A 
+N/A 子供 N/A N/A 家 変えた N/A N/A 
+N/A 母 N/A N/A 家 助けた N/A 子供 N/A N/A 
+N/A コーチ N/A N/A 家 N/A N/A 本 持ってきた N/A 人形 N/A オリバー N/A N/A 
+N/A 母 N/A N/A 部屋 食べた N/A N/A 
+N/A ゲーム N/A N/A 家 N/A N/A 枕 N/A 見つけた N/A N/A 
+N/A 母 N/A N/A 本 提供した N/A バスケット N/A N/A 友達 N/A N/A 
+N/A 少女 N/A N/A 樽 送った N/A 箱 N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A 家 N/A 提供され N/A 本 N/A N/A テーブル N/A N/A 
+N/A 子供 N/A N/A 本 N/A N/A 椅子 走った N/A N/A 
+N/A ピザ N/A N/A 家 N/A 好きだった N/A N/A 
+N/A 箱 N/A N/A 本 N/A 渡され N/A N/A 居住者 N/A N/A 母 N/A N/A 
+N/A 子供 N/A N/A 布団 知っていた N/A 種 N/A N/A 家 N/A N/A 
+N/A 生徒 N/A N/A テーブル 持ってきた N/A ワイン N/A N/A 子供 N/A N/A 
+N/A 友達 N/A N/A 家 壊した N/A N/A 
+N/A 缶 N/A N/A カップ N/A 見つけた N/A リアム N/A N/A 
+N/A ワイン N/A N/A 紙 N/A N/A ステージ N/A 調べた N/A N/A トラ N/A N/A 
+N/A 子供 N/A N/A テーブル 提供した N/A 母 N/A 分子 N/A N/A 
+N/A 本 N/A N/A 自転車 N/A 変えた N/A N/A 友達 N/A N/A 
+N/A 本 N/A N/A 戸棚 N/A 提供され N/A オリバー N/A N/A 
+N/A 母 N/A N/A テーブル 変えた N/A N/A 
+N/A ボール N/A N/A 本 N/A 触った N/A N/A 医者 N/A N/A 
+N/A 少年 N/A N/A 竜 走った N/A N/A 
+N/A 教師 N/A N/A レモン N/A 評価した N/A ディラン N/A N/A 
+N/A 母 N/A N/A 戸棚 N/A N/A 本 歩いた N/A N/A 
+N/A 子供 N/A N/A コップ 変えた N/A N/A 
+N/A マネージャー N/A N/A 車 変えた N/A N/A 
+N/A 子供 N/A N/A 棚 包んだ N/A クッキー N/A N/A 
+N/A 七面鳥 N/A N/A 家 N/A N/A 部屋 返した イザベラ N/A 本 N/A N/A 
+N/A 子供 N/A N/A ボート 提供した オリビア N/A ピザ N/A N/A 
+N/A 科学者 N/A N/A ベッド あげた N/A 友達 N/A サンドイッチ N/A N/A 家 N/A N/A 
+N/A 友達 N/A N/A 箱 N/A あげられ N/A 本 N/A N/A 
+N/A 本 N/A N/A コンピューター N/A あげられ N/A N/A 猫 N/A N/A 
+N/A 子供 N/A N/A 車 見つけた N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 道路 N/A 受け入れた N/A N/A 
+N/A 訪問者 N/A N/A 家 呼んだ N/A 学生 N/A N/A ステージ N/A N/A 
+N/A 少年 N/A N/A スタジアム N/A あげられ N/A 本 N/A N/A ヒーロー N/A N/A 
+N/A 子供 N/A N/A 道路 調査した N/A N/A 
+N/A ラジオ N/A N/A 本 N/A 見つけた N/A N/A 患者 N/A N/A 
+N/A 子供 N/A N/A 戸棚 N/A N/A ステージ あげた セバスチャン N/A 本 N/A N/A 
+N/A 子供 N/A N/A 塔 貸した ソフィア N/A ゲーム N/A N/A 
+N/A 母 N/A N/A 本 渡した N/A 子供 N/A ボール N/A N/A 
+N/A ギター N/A N/A 岩 N/A 見られ N/A N/A 
+N/A 本 N/A N/A 車 N/A 感謝した N/A N/A 
+N/A 子供 N/A N/A 席 勉強した N/A N/A 
+N/A 父 N/A N/A コンピューター N/A N/A 本 N/A 持った N/A N/A 友達 N/A N/A 
+N/A 武器 N/A N/A ケーキ N/A 知られ N/A N/A 少女 N/A N/A 
+N/A 少女 N/A N/A 道路 N/A 助けた N/A エマ N/A N/A 
+N/A チャンピオン N/A N/A 部屋 N/A N/A 猿 走った N/A N/A 
+N/A 子供 N/A N/A 家 変えた N/A N/A 
+N/A アヒル N/A N/A 庭 N/A あげられ N/A 本 N/A N/A 
+N/A 少女 N/A N/A テーブル 崇拝した N/A 猫 N/A N/A 部屋 N/A N/A 
+N/A 子供 N/A N/A 床 あえいだ N/A N/A 
+N/A 乗客 N/A N/A バスケット 見つけた N/A 子供 N/A N/A 本 N/A N/A 
+N/A ヒーロー N/A N/A 家 走った N/A N/A 
+N/A 友達 N/A N/A 家 呼んだ N/A N/A 
+N/A 教師 N/A N/A ベッド N/A 持った N/A N/A 
+N/A 子供 N/A N/A 車 見つけた リアム N/A N/A 
+N/A 本 N/A N/A 箱 N/A あげられ N/A イーサン N/A N/A 
+N/A 大統領 N/A N/A 箱 あげた N/A ボール N/A ノア N/A N/A 
+N/A 友達 N/A N/A コップ N/A N/A 家 N/A 持った N/A N/A 子供 N/A N/A 
+N/A 花 N/A N/A 部屋 N/A 好きだった N/A N/A 
+N/A 患者 N/A N/A カップ 持ってきた N/A 植物 N/A N/A 列車 N/A N/A 少女 N/A N/A 
+N/A 裁判官 N/A N/A ボート 知っていた N/A N/A 
+N/A 道具 N/A N/A 金魚鉢 N/A ほこりを払った N/A N/A 
+N/A 子供 N/A N/A 道路 投げた リアム N/A N/A 
+N/A 父 N/A N/A ボール N/A N/A 機械 N/A 与えられ N/A 本 N/A N/A 
+N/A 本 N/A N/A 家 N/A 受け入れた N/A ノア N/A N/A 
+N/A 猿 N/A N/A 家 呼んだ N/A N/A 
+N/A 友達 N/A N/A 家 歩いた N/A N/A 
+N/A 母 N/A N/A コンピューター 知っていた N/A N/A 
+N/A 植物 N/A N/A 地面 N/A 送られ N/A N/A 羊 N/A N/A 
+N/A 友達 N/A N/A 犬 N/A 助けた N/A N/A 
+N/A 囚人 N/A N/A 車 眠った N/A N/A 
+N/A ゲーム N/A N/A チェス盤 N/A 拡大した N/A N/A 
+N/A 学生 N/A N/A 部屋 ジャグリングした N/A ボウル N/A N/A 
+N/A 子供 N/A N/A 家 N/A あげられ N/A 植物 N/A N/A 
+N/A 母 N/A N/A 部屋 走った N/A N/A 
+N/A 箱 N/A N/A テーブル N/A N/A 犬 転がした N/A N/A 
+N/A 学生 N/A N/A ボード 知っていた N/A N/A 
+N/A 母 N/A N/A 宮殿 N/A 逃した N/A N/A 子供 N/A N/A 
+N/A 本 N/A N/A テレビ N/A 約束され N/A N/A プロデューサー N/A N/A 人間 N/A N/A 
+N/A スポークスマン N/A N/A 庭 見つけた N/A 生徒 N/A N/A 
+N/A 本 N/A N/A 部屋 N/A N/A ボード N/A あげられ N/A リアム N/A N/A 子供 N/A N/A 
+N/A ボール N/A N/A 車 N/A 知られ N/A N/A 
+N/A ゲスト N/A N/A 車 N/A 持ってこられ N/A 本 N/A N/A 
+N/A 母 N/A N/A 角 N/A N/A コップ 見つけた N/A 本 N/A N/A 
+N/A 帽子 N/A N/A 家 N/A 見られ N/A N/A 客 N/A N/A 
+N/A 友達 N/A N/A 家 持ってきた N/A 子供 N/A 葉 N/A N/A 
+N/A 本 N/A N/A 車 N/A 育てられ N/A N/A 
+N/A ライオン N/A N/A 家 N/A 持ってこられ N/A ワイン N/A N/A 少女 N/A N/A 
+N/A 少年 N/A N/A ポット 呼んだ サミュエル N/A N/A 
+N/A ボール N/A N/A 列車 N/A 見られ N/A ハーパー N/A N/A 
+N/A バッグ N/A N/A 棚 N/A 綺麗にした N/A ベラ N/A N/A 
+N/A 教師 N/A N/A コップ N/A 持った N/A N/A 
+N/A 子供 N/A N/A 車 見つけた N/A 旗 N/A N/A 
+N/A ゲーム N/A N/A 本 N/A 渡され N/A N/A 犬 N/A N/A 
+N/A 花 N/A N/A 紙 N/A 見られ N/A N/A 
+N/A 子供 N/A N/A ステージ N/A 憧れた N/A エマ N/A N/A 
+N/A 子供 N/A N/A 庭 聞いた N/A ラジオ N/A N/A 
+N/A ゲーム N/A N/A 紙 N/A 知られ N/A N/A 
+N/A 患者 N/A N/A 本 聞いた N/A N/A 
+N/A 赤ちゃん N/A N/A 台座 N/A 提供され N/A ゲーム N/A N/A 
+N/A 友達 N/A N/A 道路 持った N/A 少年 N/A N/A 
+N/A 生徒 N/A N/A 本 話した N/A N/A 
+N/A 植物 N/A N/A 本 N/A 描いた N/A N/A 
+N/A 子供 N/A N/A 家 育てた N/A 生徒 N/A N/A 
+N/A おもちゃ N/A N/A 本 N/A 知られ N/A N/A 赤ちゃん N/A N/A 
+N/A 教師 N/A N/A 家 N/A 触った N/A N/A 
+N/A 本 N/A N/A 家 N/A あげられ N/A N/A 子羊 N/A N/A ジャーナリスト N/A N/A 
+N/A 患者 N/A N/A 木 あげた N/A 結晶 N/A N/A 子供 N/A N/A 
+N/A 針 N/A N/A 家 N/A 気づいた N/A N/A 母 N/A N/A 
+N/A 友達 N/A N/A 車 呼んだ N/A N/A 
+N/A 作家 N/A N/A 家 貸した N/A バッグ N/A エマ N/A N/A 
+N/A 母 N/A N/A 席 N/A 助けた N/A N/A テナント N/A N/A 
+N/A 患者 N/A N/A ボール 知っていた N/A 少年 N/A N/A 
+N/A 子供 N/A N/A 王座 N/A あげられ N/A 植物 N/A N/A 道路 N/A N/A 鳥 N/A N/A 
+N/A 子供 N/A N/A ハンモック N/A 持った N/A リアム N/A N/A 
+N/A マネージャー N/A N/A 車 N/A 転送され N/A 本 N/A N/A 
+N/A 教師 N/A N/A 本 聞いた N/A ギター N/A N/A 
+N/A 子供 N/A N/A ボード N/A 提供され N/A 本 N/A N/A 
+N/A 学生 N/A N/A 本 N/A N/A ライオン 壊した N/A N/A 
+N/A 友達 N/A N/A トレーラー 貸した N/A ペン N/A レオ N/A N/A 
+N/A 母 N/A N/A 車 N/A N/A 引き出し 笑った N/A N/A 
+N/A 学生 N/A N/A コップ あげた N/A ボール N/A N/A 子供 N/A N/A 
+N/A ボール N/A N/A 家 N/A 見られ N/A N/A 
+N/A 本 N/A N/A 家 N/A 返され N/A リアム N/A N/A 友達 N/A N/A 
+N/A カップ N/A N/A テーブル N/A N/A 岩 N/A 見つけた N/A N/A 
+N/A 本 N/A N/A バッグ N/A 渡され N/A ベンジャミン N/A N/A 
+N/A 学生 N/A N/A 本 持ってきた N/A 貝殻 N/A N/A 子供 N/A N/A 
+N/A ゲーム N/A N/A クローゼット N/A 見つけた N/A N/A 
+N/A 患者 N/A N/A コンピューター 知っていた N/A 武器 N/A N/A 本 N/A N/A 
+N/A カップ N/A N/A スピーカー N/A N/A 道路 N/A 見つけた N/A N/A 運転手 N/A N/A 
+N/A 子供 N/A N/A 部屋 N/A 提供され N/A 本 N/A N/A 家 N/A N/A 
+N/A 友達 N/A N/A 道路 呼んだ N/A N/A 
+N/A 子供 N/A N/A 机 改善した N/A 熊 N/A N/A 家 N/A N/A 
+N/A 子供 N/A N/A 家 知っていた N/A N/A 
+N/A 少女 N/A N/A 紙 あげた N/A 子供 N/A 靴 N/A N/A 
+N/A 枕 N/A N/A コップ N/A 見つけた N/A N/A 
+N/A 子供 N/A N/A 道路 N/A N/A 車 N/A 持ってこられ N/A 本 N/A N/A 
+N/A 本 N/A N/A 部屋 N/A 見つけた N/A N/A 
+N/A 教師 N/A N/A 家 N/A N/A 乗り物 N/A 尊敬した N/A N/A 市民 N/A N/A 
+N/A 子供 N/A N/A 本 歩いた N/A N/A 
+N/A 子供 N/A N/A 家 N/A あげられ N/A ケーキ N/A N/A 友達 N/A N/A 
+N/A 患者 N/A N/A 岩 走った N/A N/A 
+N/A 買い手 N/A N/A 車 聞いた N/A N/A 
+N/A 友達 N/A N/A 家 与えた N/A 子供 N/A 植物 N/A N/A 
+N/A ナイフ N/A N/A ジープ N/A 見つけた N/A N/A 
+N/A 運転手 N/A N/A 家 壊した N/A 子供 N/A N/A 
+N/A 子供 N/A N/A 熊 提供した N/A ドーナツ N/A N/A 詩人 N/A N/A 
+N/A ゲスト N/A N/A 本 折った N/A N/A 
+N/A 生徒 N/A N/A ベッド N/A N/A 家 走った N/A N/A 
+N/A 学生 N/A N/A 彫刻 N/A N/A 家 ほこりを払った N/A N/A 
+N/A 友達 N/A N/A 容器 知っていた N/A 監督 N/A N/A 
+N/A 教師 N/A N/A 靴下 N/A 持った N/A N/A 患者 N/A N/A 
+N/A 大統領 N/A N/A テーブル 知っていた N/A N/A 
+N/A 道具 N/A N/A 部屋 N/A 知られ N/A N/A 
+N/A 研究者 N/A N/A 箱 持った N/A 靴 N/A N/A バッグ N/A N/A 
+N/A 本 N/A N/A カップ N/A 売られ N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A テント N/A N/A トラック N/A あげられ N/A 本 N/A エマ N/A N/A 
+N/A 子供 N/A N/A テーブル 見つけた アメリア N/A N/A 
+N/A 教師 N/A N/A 本 N/A N/A 家 N/A 評価した N/A N/A 母 N/A N/A 
+N/A 本 N/A N/A 家 変えた N/A N/A 
+N/A 教師 N/A N/A ボトル N/A 持った N/A N/A ウサギ N/A N/A 
+N/A サンドイッチ N/A N/A 家 N/A 見つけた N/A N/A 
+N/A 少年 N/A N/A 部屋 変えた N/A N/A 
+N/A 訪問者 N/A N/A コンピューター 貸した N/A 大統領 N/A おもちゃ N/A N/A 庭 N/A N/A 
+N/A 少女 N/A N/A 箱 持ってきた N/A 友達 N/A 本 N/A N/A 
+N/A 兵士 N/A N/A 道路 N/A あげられ N/A 本 N/A N/A 子供 N/A N/A 
+N/A 本 N/A N/A 庭 N/A 呼んだ N/A N/A 
+N/A 教師 N/A N/A 家 N/A N/A 列車 N/A 触った N/A N/A 
+N/A 飲み物 N/A N/A 家 N/A 渡され N/A リアム N/A N/A 教師 N/A N/A 
+N/A 子供 N/A N/A 本 歩いた N/A N/A 
+N/A スポークスマン N/A N/A 本 N/A N/A 熊 走った N/A N/A 
+N/A 大統領 N/A N/A ステージ N/A そっと渡され N/A ギター N/A N/A 患者 N/A N/A 
+N/A 弁護士 N/A N/A テーブル 料理した N/A N/A 
+N/A マネージャー N/A N/A ブリキ缶 約束した N/A 花 N/A N/A ホスト N/A N/A 
+N/A 子供 N/A N/A ボード 知っていた N/A N/A 
+N/A ベル N/A N/A 本 N/A 見つけた N/A N/A 子供 N/A N/A 
+N/A マネージャー N/A N/A 家 持ってきた N/A 本 N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A バッグ N/A N/A 道路 走った N/A N/A 
+N/A 子供 N/A N/A コップ N/A N/A 車 N/A 持った N/A N/A 子供 N/A N/A 
+N/A 教授 N/A N/A 部屋 N/A 売られ N/A ゲーム N/A N/A 
+N/A 長 N/A N/A 道路 N/A あげられ N/A 本 N/A N/A 
+N/A 子供 N/A N/A 家 N/A そっと渡され N/A 針 N/A N/A 教師 N/A N/A 
+N/A 少女 N/A N/A 机 変えた N/A N/A 
+N/A 果物 N/A N/A 自転車 N/A N/A 本 N/A 見つけた N/A リアム N/A N/A 
+N/A 赤ちゃん N/A N/A 車 N/A あげられ N/A 本 N/A ジェームズ N/A N/A 
+N/A 植物 N/A N/A 道路 N/A 見られ N/A N/A 
+N/A 子供 N/A N/A 椅子 気づいた N/A N/A 
+N/A 本 N/A N/A 紙 N/A あげられ N/A ジェイコブ N/A N/A 
+N/A 本 N/A N/A プール N/A N/A バッグ 赤くした N/A N/A 
+N/A ウサギ N/A N/A 家 渡した アイザック N/A ゲーム N/A N/A 
+N/A 客 N/A N/A 車 N/A N/A 家 走った N/A N/A 
+N/A 本 N/A N/A テーブル N/A 持ってこられ N/A N/A マネージャー N/A N/A 
+N/A 子供 N/A N/A 家 N/A 受け入れた N/A N/A 少女 N/A N/A 
+N/A 子供 N/A N/A ランプ 知っていた N/A N/A 
+N/A 子供 N/A N/A 仲買人 知っていた リアム N/A N/A 
+N/A 子供 N/A N/A 家 倍にした N/A 分子 N/A N/A 
+N/A ラジオ N/A N/A ステージ N/A N/A 家 N/A 聞いた N/A N/A 
+N/A 子供 N/A N/A 本 貸した N/A 教授 N/A ゲーム N/A N/A ボード N/A N/A 
+N/A 患者 N/A N/A ベッド 呼んだ N/A 子供 N/A N/A 
+N/A 本 N/A N/A 車 N/A N/A 道路 N/A 売られ N/A N/A 患者 N/A N/A 
+N/A 患者 N/A N/A 家 走った N/A N/A 
+N/A 父 N/A N/A 家 送った N/A 子供 N/A ゲーム N/A N/A テーブル N/A N/A 
+N/A 馬 N/A N/A 家 知っていた N/A N/A 
+N/A プレッツェル N/A N/A テーブル N/A 食べられ N/A N/A 少女 N/A N/A 
+N/A 友達 N/A N/A 本 歩いた N/A N/A 
+N/A ドーナツ N/A N/A 部屋 N/A 食べられ N/A N/A 
+N/A 教師 N/A N/A 家 N/A N/A 席 N/A 助けた N/A N/A 農家 N/A N/A 
+N/A 植物 N/A N/A コップ N/A 見つけた N/A N/A 子供 N/A N/A 
+N/A 少女 N/A N/A 道路 見つけた エマ N/A N/A 
+N/A 雲 N/A N/A バッグ N/A 割った N/A N/A 父 N/A N/A 
+N/A ハンマー N/A N/A 本 N/A 見つけた N/A リアム N/A N/A 
+N/A 椅子 N/A N/A 家 N/A ほこりを払った N/A N/A アヒル N/A N/A 
+N/A 少年 N/A N/A 家 見つけた N/A 椅子 N/A N/A 
+N/A 訪問者 N/A N/A 箱 N/A N/A テーブル 改善した N/A 人 N/A N/A 
+N/A 爪 N/A N/A 機械 N/A N/A カップ N/A 見られ N/A N/A 
+N/A 本 N/A N/A 屋台 N/A あげられ N/A N/A 母 N/A N/A 
+N/A ピザ N/A N/A 本 N/A 見られ N/A N/A 
+N/A 本 N/A N/A 家 N/A N/A 部屋 壊した N/A N/A 
+N/A チャンピオン N/A N/A 道路 送った N/A 本 N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 道路 笑った N/A N/A 
+N/A 本 N/A N/A 家 N/A あげられ N/A N/A 教師 N/A N/A 
+N/A 教師 N/A N/A はしご N/A 助けた N/A N/A 
+N/A マネージャー N/A N/A カップ 分解した N/A N/A 
+N/A 本 N/A N/A 貯蔵庫 N/A 約束され N/A N/A 子供 N/A N/A 
+N/A 赤ちゃん N/A N/A テーブル 勉強した N/A ギター N/A N/A 
+N/A 子供 N/A N/A 部屋 N/A N/A 家 勉強した N/A N/A 
+N/A 母 N/A N/A 箱 話した N/A N/A 
+N/A スポークスマン N/A N/A 家 提供した N/A サンドイッチ N/A ハンナ N/A N/A 
+N/A カップ N/A N/A 家 N/A 呼んだ N/A N/A 
+N/A 本 N/A N/A 紙 N/A N/A ベッド N/A 持った N/A N/A 子供 N/A N/A 
+N/A 友達 N/A N/A 家 割った N/A N/A 
+N/A 知事 N/A N/A ハンマー 売った N/A 友達 N/A 皿 N/A N/A 
+N/A ワイン N/A N/A 部屋 N/A あげられ N/A N/A ライオン N/A N/A 
+N/A 帽子 N/A N/A 道路 N/A 赤くした N/A N/A 
+N/A 本 N/A N/A テーブル N/A 転送され N/A エマ N/A N/A 
+N/A 少年 N/A N/A 棒 N/A あげられ N/A ボール N/A N/A 
+N/A ウサギ N/A N/A 本 N/A そっと渡され N/A 箱 N/A N/A トラ N/A N/A 
+N/A 花 N/A N/A 本 N/A N/A 家 N/A 赤くした N/A N/A 
+N/A 子供 N/A N/A 家 N/A 育てられ N/A リアム N/A N/A 
+N/A ゲーム N/A N/A 紙 N/A N/A 道路 燃やした N/A N/A 
+N/A 友達 N/A N/A 戸棚 N/A N/A コンピューター 料理した N/A 人 N/A N/A 
+N/A 母 N/A N/A 箱 分解した N/A N/A 
+N/A 子供 N/A N/A 小個室 N/A N/A 家 N/A 持った N/A N/A ウサギ N/A N/A 
+N/A 父 N/A N/A 本 歩いた N/A N/A 
+N/A 友達 N/A N/A バッグ 崇拝した N/A 人間 N/A N/A 
+N/A 植物 N/A N/A カップ N/A 見つけた N/A N/A 
+N/A 友達 N/A N/A 棺 N/A N/A 車 N/A 愛した N/A N/A 教師 N/A N/A 
+N/A 少女 N/A N/A 席 評価した ジャクソン N/A N/A 
+N/A 教師 N/A N/A 丸太 N/A 郵送され N/A 本 N/A N/A カップ N/A N/A 
+N/A 子供 N/A N/A 家 気づいた N/A 赤ちゃん N/A N/A 
+N/A 友達 N/A N/A 道路 N/A 持った N/A イーサン N/A N/A 
+N/A 友達 N/A N/A 家 N/A N/A 本 N/A 変えた N/A N/A 
+N/A 人 N/A N/A 角 好きだった リアム N/A N/A 
+N/A 友達 N/A N/A 車 N/A N/A 花 描いた N/A N/A 
+N/A 父 N/A N/A 道路 走った N/A N/A 
+N/A 子供 N/A N/A 家 見た N/A 熊 N/A N/A 
+N/A 子供 N/A N/A 家 貸した N/A 鍵 N/A N/A 小包 N/A N/A 少女 N/A N/A 
+N/A 本 N/A N/A 家 N/A 渡され N/A N/A 少年 N/A N/A 
+N/A 教師 N/A N/A 家 N/A 愛した N/A ヴィクトリア N/A N/A 
+N/A 客 N/A N/A ベッド N/A N/A 家 笑った N/A N/A 
+N/A シマウマ N/A N/A コップ 見つけた N/A ハンバーガー N/A N/A 
+N/A 船長 N/A N/A 家 N/A N/A 戸棚 あげた N/A 子供 N/A 本 N/A N/A 
+N/A 友達 N/A N/A トランク N/A N/A リーフレット N/A 貸され N/A 本 N/A N/A 
+N/A 少女 N/A N/A コショウ 勉強した N/A 人間 N/A N/A 
+N/A 子供 N/A N/A 家 N/A 助けた N/A N/A 
+N/A 大統領 N/A N/A 家 知っていた N/A N/A 
+N/A ケーキ N/A N/A 家 N/A 見られ N/A N/A 
+N/A 監督 N/A N/A 家 変えた N/A N/A 
+N/A 友達 N/A N/A テーブル 持ってきた N/A ヨーグルト N/A N/A 子供 N/A N/A 
+N/A 本 N/A N/A 道路 N/A 持ってこられ N/A N/A 少女 N/A N/A 
+N/A 居住者 N/A N/A 本 話した N/A N/A 
+N/A バナナ N/A N/A 本 N/A 見られ N/A N/A 
+N/A クッキー N/A N/A 家 N/A 見られ N/A N/A 魚 N/A N/A 
+N/A 熊 N/A N/A 井戸 提供した N/A 友達 N/A 結晶 N/A N/A スピーカー N/A N/A 
+N/A 作家 N/A N/A 乗り物 N/A N/A 席 描いた N/A 子供 N/A N/A 
+N/A 友達 N/A N/A 水たまり N/A N/A 本 転送した N/A ブロック N/A N/A 子供 N/A N/A 
+N/A 豚 N/A N/A 家 知っていた N/A N/A 
+N/A 母 N/A N/A テーブル N/A 売られ N/A 椅子 N/A N/A 化学者 N/A N/A 
+N/A スプーン N/A N/A 椅子 N/A 滑らせた N/A N/A 
+N/A 蝶 N/A N/A ベッド 調査した N/A 学生 N/A N/A 家 N/A N/A 
+N/A 農家 N/A N/A ハンガー しわくちゃにした N/A N/A 
+N/A 友達 N/A N/A 本 N/A N/A 車 変えた N/A N/A 
+N/A 子供 N/A N/A 家 N/A N/A 本 走った N/A N/A 
+N/A バスケット N/A N/A コンピューター N/A 見つけた N/A リアム N/A N/A 
+N/A 怪物 N/A N/A テーブル 見つけた マイケル N/A N/A 
+N/A 大統領 N/A N/A 家 N/A あげられ N/A 本 N/A N/A 犬 N/A N/A 
+N/A 教師 N/A N/A 犬 N/A 賞賛した N/A N/A 客 N/A N/A 
+N/A 怪物 N/A N/A 急須 泣いた N/A N/A 
+N/A ブロック N/A N/A 時計 N/A N/A 家 N/A 拡大した N/A N/A 少女 N/A N/A 
+N/A 本 N/A N/A コショウ 赤くした N/A N/A 
+N/A 本 N/A N/A 道路 N/A N/A カップ N/A 提供され N/A オリビア N/A ジャクソン N/A N/A 
+N/A 友達 N/A N/A コンピューター 知っていた リアム N/A N/A 
+N/A 子供 N/A N/A 本 提供した N/A ゲーム N/A N/A 少女 N/A N/A 
+N/A 帽子 N/A N/A ボード N/A N/A 列車 N/A ジャグリングした N/A N/A 
+N/A 子供 N/A N/A 棚 ほこりを払った N/A N/A 
+N/A 教師 N/A N/A 車 N/A 改善した N/A N/A 子供 N/A N/A 
+N/A 教師 N/A N/A シリンダー N/A N/A 小包 N/A 持った N/A N/A 
+N/A プロデューサー N/A N/A 家 N/A あげられ N/A 本 N/A N/A 
+N/A 弁護士 N/A N/A 箱 知っていた N/A N/A 
+N/A 少女 N/A N/A 塔 走った N/A N/A 
+N/A 母 N/A N/A 紙 投げた エヴァリー N/A N/A 
+N/A 時計 N/A N/A バット N/A N/A 地面 N/A 狩った N/A N/A 
+N/A ボール N/A N/A 瓶 N/A 知られ N/A N/A 
+N/A ジャケット N/A N/A 道路 N/A 見られ N/A N/A 
+N/A マネージャー N/A N/A 車 N/A 貸され N/A 本 N/A N/A 
+N/A 友達 N/A N/A 本 N/A N/A ステージ 持った N/A ボール N/A N/A 
+N/A 教授 N/A N/A 家 N/A あげられ N/A 本 N/A N/A 
+N/A 新聞 N/A N/A 椅子 N/A N/A 道路 N/A そっと渡され N/A アディソン N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 車 N/A N/A 棺 折った N/A 椅子 N/A N/A 
+N/A 猫 N/A N/A ボード 笑った N/A N/A 
+N/A 母 N/A N/A ベッド N/A 返され N/A 本 N/A N/A 
+N/A ゲーム N/A N/A 庭 N/A 好きだった N/A N/A 
+N/A 本 N/A N/A 車 凍らせた N/A N/A 
+N/A 母 N/A N/A 家 N/A 貸され N/A 本 N/A N/A 
+N/A 少女 N/A N/A 家 見つけた N/A 本 N/A N/A 
+N/A ネズミ N/A N/A 家 N/A N/A 絵 知っていた N/A 友達 N/A N/A 
+N/A 教師 N/A N/A 小包 N/A 評価した N/A オリビア N/A N/A 
+N/A 植物 N/A N/A 家 N/A N/A トランポリン N/A 与えられ N/A N/A 学生 N/A N/A 
+N/A 政治家 N/A N/A 家 見つけた N/A 母 N/A N/A 本 N/A N/A 
+N/A 花 N/A N/A 布 N/A 見られ N/A リアム N/A N/A 
+N/A 本 N/A N/A 箱 N/A あげられ N/A N/A 学生 N/A N/A 
+N/A おもちゃ N/A N/A 家 N/A 持ってこられ N/A N/A 訪問者 N/A N/A 
+N/A 監督 N/A N/A 家 持ってきた N/A 少女 N/A 飲み物 N/A N/A 部屋 N/A N/A 
+N/A 武器 N/A N/A 戸棚 N/A N/A バッグ N/A 知られ N/A オリビア N/A N/A 
+N/A 友達 N/A N/A コップ 変えた N/A N/A 
+N/A 子供 N/A N/A 戸棚 N/A N/A 熊 聞いた N/A 人 N/A N/A 
+N/A マネージャー N/A N/A 管 持ってきた N/A 風船 N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A コンピューター N/A N/A 家 歩いた N/A N/A 
+N/A 本 N/A N/A テーブル N/A あげられ N/A N/A 子供 N/A リアム N/A N/A 
+N/A 友達 N/A N/A 塔 知っていた N/A N/A 
+N/A 本 N/A N/A 家 N/A あげられ N/A N/A 子供 N/A N/A 
+N/A 大統領 N/A N/A テーブル 育てた N/A N/A 
+N/A ボール N/A N/A 家 N/A 見られ N/A N/A 
+N/A ゲーム N/A N/A 庭 N/A N/A 家 N/A 貸され N/A N/A 祭司 N/A N/A 
+N/A 本 N/A N/A 鏡 N/A N/A タオル 改善した N/A N/A 
+N/A 子供 N/A N/A 道路 聞いた N/A N/A 
+N/A 友達 N/A N/A ポスター N/A 変えた N/A N/A 
+N/A 子供 N/A N/A 家 壊した N/A N/A 
+N/A 教師 N/A N/A 部屋 電報した N/A 本 N/A アッシャー N/A N/A 
+N/A 瓶 N/A N/A 本 N/A 気づいた N/A N/A 
+N/A 本 N/A N/A 家 N/A 燃やした N/A N/A 
+N/A 学生 N/A N/A 列車 N/A N/A 部屋 変えた N/A N/A 
+N/A 子供 N/A N/A ステージ 描いた N/A N/A 
+N/A 子供 N/A N/A 家 知っていた N/A N/A 
+N/A 子供 N/A N/A 棺 知っていた N/A N/A 
+N/A 新聞 N/A N/A テーブル N/A 見られ N/A N/A 
+N/A ゲーム N/A N/A ボトル N/A 知られ N/A N/A 少女 N/A N/A 
+N/A 本 N/A N/A 家 変えた N/A N/A 
+N/A 子供 N/A N/A 家 見つけた N/A 少女 N/A N/A 
+N/A スポークスマン N/A N/A 缶 N/A あげられ N/A 植物 N/A N/A 
+N/A 牛 N/A N/A コンピューター 変えた N/A 大統領 N/A N/A 
+N/A 患者 N/A N/A 道路 眉をひそめた N/A N/A 
+N/A 友達 N/A N/A 倉庫 育てた N/A N/A 
+N/A 少年 N/A N/A 大皿 見つけた リアム N/A N/A 
+N/A 子供 N/A N/A 本 N/A N/A トランク あげた N/A 友達 N/A 植物 N/A N/A 
+N/A 母 N/A N/A 小さいベッド あげた N/A 王 N/A 本 N/A N/A 
+N/A 植物 N/A N/A 家 N/A N/A 棚 N/A スケッチした N/A N/A 
+N/A 監督 N/A N/A 家 変えた N/A N/A 
+N/A 子供 N/A N/A 家 食べた N/A 蜂 N/A N/A 
+N/A 子供 N/A N/A 乗り物 助けた バイオレット N/A N/A 
+N/A 母 N/A N/A 木 見つけた N/A 王子 N/A N/A 
+N/A 財布 N/A N/A ベッド N/A N/A 家 N/A 見つけた N/A N/A 友達 N/A N/A 
+N/A 父 N/A N/A 家 売った N/A ゲーム N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 家 与えた N/A 牛 N/A プレゼント N/A N/A たらい N/A N/A 
+N/A コーチ N/A N/A ベッド 育てた N/A N/A 
+N/A 研究者 N/A N/A 家 N/A あげられ N/A 本 N/A リアム N/A N/A 
+N/A 船員 N/A N/A コップ 持ってきた N/A 本 N/A N/A ひび N/A N/A 母 N/A N/A 
+N/A 子供 N/A N/A 本 見つけた N/A ヒーロー N/A N/A 家 N/A N/A 
+N/A 脳 N/A N/A カップ N/A 勉強した N/A N/A 
+N/A 教師 N/A N/A 飾り額 N/A 改善した N/A N/A 
+N/A 果物 N/A N/A 箱 N/A 送られ N/A N/A 患者 N/A N/A 
+N/A 子供 N/A N/A 機械 提供した N/A ゲーム N/A N/A 道路 N/A オリビア N/A N/A 
+N/A 大統領 N/A N/A 家 育てた N/A マネージャー N/A N/A 
+N/A 馬 N/A N/A 床 知っていた N/A N/A 
+N/A ゲーム N/A N/A 本 N/A 好きだった N/A N/A 
+N/A 教師 N/A N/A スタジアム N/A N/A ベッド N/A 感謝した N/A N/A 
+N/A 本 N/A N/A 庭 N/A あげられ N/A N/A 母 N/A N/A 
+N/A カメ N/A N/A ステージ 走った N/A N/A 
+N/A 本 N/A N/A ステージ N/A N/A 家 N/A 与えられ N/A リアム N/A N/A 
+N/A 友達 N/A N/A テーブル 見つけた N/A 瓶 N/A N/A 
+N/A 子供 N/A N/A 宮殿 愛した N/A 鶏 N/A N/A 
+N/A 教師 N/A N/A 庭 N/A N/A 家 N/A 感謝した N/A N/A 
+N/A カップ N/A N/A ベッド N/A N/A スープ N/A 見つけた N/A N/A 
+N/A 患者 N/A N/A 椅子 N/A あげられ N/A 本 N/A N/A 道路 N/A N/A 豚 N/A N/A 
+N/A 買い手 N/A N/A ボード N/A N/A トレイ いびきをかいた N/A N/A 
+N/A 子供 N/A N/A トラック 知っていた N/A N/A 
+N/A 少女 N/A N/A 本 N/A N/A 地面 提供した N/A 飲み物 N/A N/A ゲスト N/A N/A 
+N/A 本 N/A N/A ベンチ N/A 逃した N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A 紙 N/A N/A 包装 N/A あげられ N/A 鍵 N/A リアム N/A N/A 
+N/A 子供 N/A N/A 家 N/A 返され N/A 本 N/A N/A 
+N/A 友達 N/A N/A 車 あげた N/A スプーン N/A ノア N/A N/A 
+N/A 友達 N/A N/A 封筒 あげた N/A 缶 N/A ウィロー N/A N/A 
+N/A ゲーム N/A N/A 地面 N/A 育てられ N/A N/A 長 N/A N/A 
+N/A 教授 N/A N/A 本 勉強した N/A ワイン N/A N/A 
+N/A 豆 N/A N/A 本 N/A 包んだ N/A N/A 教師 N/A N/A 
+N/A 少女 N/A N/A 本 育てた N/A 豆 N/A N/A 道路 N/A N/A 
+N/A 船員 N/A N/A 戸棚 笑った N/A N/A 
+N/A 本 N/A N/A 道路 N/A N/A 木 N/A 看護した N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 本 好きだった N/A ボール N/A N/A 
+N/A 本 N/A N/A ボード N/A あげられ N/A N/A 少女 N/A N/A 
+N/A 鍵 N/A N/A 布団 N/A あげられ N/A リアム N/A N/A 
+N/A 友達 N/A N/A 包装 眠った N/A N/A 
+N/A 少年 N/A N/A 庭 好きだった リアム N/A N/A 
+N/A 帽子 N/A N/A 本 N/A 好きだった N/A N/A 長 N/A N/A 
+N/A 指輪 N/A N/A ベッド 壊した N/A N/A 
+N/A 子供 N/A N/A 道路 返した N/A カップ N/A N/A 友達 N/A N/A 
+N/A 教師 N/A N/A 車 N/A 改善した N/A N/A 大統領 N/A N/A 
+N/A 子供 N/A N/A 管 持ってきた N/A ボール N/A リアム N/A N/A 
+N/A 農家 N/A N/A 車 割った N/A N/A 
+N/A 少女 N/A N/A 城 N/A N/A 家 N/A 発見した N/A N/A 子供 N/A N/A 
+N/A 父 N/A N/A 家 知っていた N/A 患者 N/A N/A 岩 N/A N/A 
+N/A ギター N/A N/A テーブル N/A N/A 管 N/A 聞いた N/A N/A 学生 N/A N/A 
+N/A 客 N/A N/A 本 N/A N/A 家 持ってきた N/A 大統領 N/A 植物 N/A N/A 
+N/A 教師 N/A N/A 車 N/A N/A スツール 知っていた N/A N/A 
+N/A 母 N/A N/A 家 N/A N/A 男爵 N/A 愛した N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A トラック 聞いた N/A N/A 
+N/A 友達 N/A N/A 家 変えた N/A ジャケット N/A N/A 
+N/A 教師 N/A N/A 盛り土 N/A 賞賛した N/A N/A 
+N/A 患者 N/A N/A 本 N/A 変えた N/A N/A 友達 N/A N/A 
+N/A 医者 N/A N/A 箱 N/A 持ってこられ N/A 本 N/A N/A 
+N/A 花 N/A N/A ソファ N/A 観察した N/A N/A 客 N/A N/A 
+N/A 本 N/A N/A 家 N/A 持ってこられ N/A N/A 少女 N/A オリビア N/A N/A 
+N/A 子供 N/A N/A 引き出し N/A 変えた N/A ソフィア N/A N/A 
+N/A 居住者 N/A N/A 家 N/A 送られ N/A 椅子 N/A N/A 子供 N/A N/A 
+N/A 本 N/A N/A ベッド N/A N/A カップ N/A 売られ N/A N/A 鳥 N/A N/A 少女 N/A N/A 
+N/A 母 N/A N/A 本 N/A 育てられ N/A N/A 
+N/A 教師 N/A N/A 紙 N/A 持ってこられ N/A ワイン N/A N/A 家 N/A N/A 
+N/A 父 N/A N/A テーブル 話した N/A N/A 
+N/A ゲーム N/A N/A 化学者 N/A 提供され N/A アッシャー N/A N/A 
+N/A 母 N/A N/A 部屋 見つけた N/A 本 N/A N/A 
+N/A 本 N/A N/A ベッド N/A あげられ N/A ノア N/A N/A 少女 N/A N/A 
+N/A 患者 N/A N/A 庭 呼んだ N/A 本 N/A N/A 
+N/A ドーナツ N/A N/A テーブル N/A 見つけた N/A ノア N/A N/A 
+N/A 友達 N/A N/A 家 転送した N/A ブロック N/A リアム N/A N/A 
+N/A 友達 N/A N/A ステージ 倍にした N/A N/A 
+N/A 子供 N/A N/A 本 凍らせた N/A N/A 
+N/A 子供 N/A N/A 道路 渡した N/A ゲーム N/A N/A 買い手 N/A N/A 
+N/A 本 N/A N/A 家 N/A 見つけた N/A ノア N/A N/A 
+N/A 公爵 N/A N/A ベッド 持ってきた N/A 市民 N/A 結晶 N/A N/A 
+N/A 母 N/A N/A 道路 返した N/A 子供 N/A 椅子 N/A N/A 
+N/A 子供 N/A N/A 地面 知っていた N/A N/A 
+N/A 子供 N/A N/A ボール 持ってきた N/A ヨーグルト N/A N/A テーブル N/A N/A 母 N/A N/A 
+N/A 友達 N/A N/A テーブル 見つけた N/A 本 N/A N/A 
+N/A 子供 N/A N/A コンピューター 知っていた N/A ボール N/A N/A カップ N/A N/A 
+N/A ギター N/A N/A ベッド N/A 聞いた N/A N/A 
+N/A 子供 N/A N/A バッグ ジャグリングした N/A N/A 
+N/A マネージャー N/A N/A 家 知っていた N/A ラジオ N/A N/A 
+N/A 子供 N/A N/A 樽 知っていた N/A N/A 
+N/A 豆 N/A N/A ステージ N/A 呼んだ N/A N/A 少年 N/A N/A 
+N/A 学生 N/A N/A 竜 与えた N/A 少女 N/A 果物 N/A N/A 
+N/A 本 N/A N/A 車 N/A あげられ N/A N/A 子供 N/A リアム N/A N/A 
+N/A 友達 N/A N/A 道路 どもった N/A N/A 
+N/A 客 N/A N/A ステージ N/A N/A 本 走った N/A N/A 
+N/A 本 N/A N/A 家 N/A N/A ボトル 壊した N/A N/A 
+N/A 子供 N/A N/A 紙 N/A 賞賛した N/A セバスチャン N/A N/A 
+N/A 本 N/A N/A テーブル N/A あげられ N/A リアム N/A N/A 
+N/A 子供 N/A N/A 家 食べた N/A 石鹸 N/A N/A 
+N/A 子供 N/A N/A 部屋 N/A 持ってこられ N/A 本 N/A N/A 丸太 N/A エリジャ N/A N/A 
+N/A 葉 N/A N/A 穴 N/A 観察した N/A N/A ポニー N/A N/A 
+N/A 友達 N/A N/A コンピューター N/A 郵送され N/A 新聞 N/A N/A 
+N/A 植物 N/A N/A カップ N/A 見られ N/A N/A 
+N/A 弁護士 N/A N/A 道路 N/A N/A プール N/A 渡され N/A ワイン N/A N/A 
+N/A 子供 N/A N/A 道路 助けた N/A 生徒 N/A N/A 
+N/A 農家 N/A N/A テーブル 赤くした N/A N/A 
+N/A 教師 N/A N/A 庭 N/A 持った N/A N/A 
+N/A 子供 N/A N/A 山積み N/A 持ってこられ N/A 本 N/A N/A 
+N/A 裁判官 N/A N/A 家 見つけた N/A 政治家 N/A N/A 
+N/A 友達 N/A N/A 部屋 N/A N/A 家 好きだった N/A 帽子 N/A N/A 
+N/A オオカミ N/A N/A 家 うたた寝した N/A N/A 
+N/A 教師 N/A N/A 屋台 N/A 逃した N/A N/A 友達 N/A N/A 
+N/A 学生 N/A N/A 車 送った N/A 本 N/A N/A 子供 N/A N/A 
+N/A 本 N/A N/A 棺 N/A あげられ N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A トラック 知っていた N/A N/A 
+N/A マネージャー N/A N/A 部屋 N/A 与えられ N/A 本 N/A N/A コンピューター N/A N/A 医者 N/A N/A 
+N/A 子供 N/A N/A 鍵 N/A 電報され N/A 本 N/A リアム N/A N/A 
+N/A 子供 N/A N/A 紙 与えた N/A 結晶 N/A N/A 父 N/A N/A 
+N/A 教師 N/A N/A ノート N/A N/A 自転車 N/A 持った N/A N/A 子供 N/A N/A 
+N/A 乗客 N/A N/A テーブル N/A 渡され N/A 指輪 N/A N/A 
+N/A 子供 N/A N/A テーブル 呼んだ N/A 赤ちゃん N/A N/A 引き出し N/A N/A 
+N/A 子供 N/A N/A 列車 好きだった N/A クッキー N/A N/A 
+N/A 母 N/A N/A 紙 あげた N/A 果物 N/A N/A 巣 N/A N/A 子供 N/A N/A 
+N/A 友達 N/A N/A 木 持ってきた トーマス N/A 本 N/A N/A 
+N/A 患者 N/A N/A 角 発見した N/A 猫 N/A N/A スピーカー N/A N/A 
+N/A 本 N/A N/A 宮殿 N/A あげられ N/A オリバー N/A N/A 
+N/A 本 N/A N/A 道路 N/A N/A 家 N/A 見つけた N/A N/A 
+N/A 赤ちゃん N/A N/A テレビ 返した N/A 本 N/A N/A 子供 N/A N/A 
+N/A 分子 N/A N/A 車 N/A N/A 紙 N/A 倍にした N/A N/A 
+N/A 本 N/A N/A 彫刻 N/A あげられ N/A シャーロット N/A オリビア N/A N/A 
+N/A 本 N/A N/A 靴 N/A N/A 家 N/A 返され N/A N/A 船長 N/A N/A 
+N/A 本 N/A N/A 自転車 改善した N/A N/A 
+N/A 少女 N/A N/A 家 N/A 渡され N/A 鍵 N/A N/A 学生 N/A N/A 
+N/A 友達 N/A N/A 冷蔵庫 知っていた N/A N/A 
+N/A 学生 N/A N/A 本 変えた N/A ケーキ N/A N/A バン N/A N/A 
+N/A 子供 N/A N/A 家 N/A N/A 部屋 あげた N/A 友達 N/A ワイン N/A N/A 
+N/A 本 N/A N/A カップ 改善した N/A N/A 
+N/A 乗客 N/A N/A 大きな石 変えた N/A N/A 
+N/A 友達 N/A N/A 家 送った N/A 植物 N/A N/A 子供 N/A N/A 
+N/A 風船 N/A N/A 家 N/A 見つけた N/A N/A 
+N/A 母 N/A N/A カップ N/A N/A 家 返した N/A 患者 N/A 本 N/A N/A 
+N/A ハエ N/A N/A 家 歩いた N/A N/A 
+N/A 子供 N/A N/A 本 渡した リアム N/A ゲーム N/A N/A 
+N/A 友達 N/A N/A バッグ 持ってきた N/A バナナ N/A N/A 少女 N/A N/A 
+N/A 本 N/A N/A 庭 N/A 変えた N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A 犬 N/A N/A コップ 調査した N/A N/A 
+N/A 子供 N/A N/A 家 N/A 郵送され N/A 本 N/A N/A 竜 N/A サミュエル N/A N/A 
+N/A 子供 N/A N/A シリンダー 聞いた N/A N/A 
+N/A 猫 N/A N/A ミキサー 膨らませた N/A N/A 
+N/A 友達 N/A N/A 車 N/A 貸され N/A 本 N/A N/A 
+N/A 大統領 N/A N/A 本 好きだった N/A 植物 N/A N/A 
+N/A 友達 N/A N/A 本 N/A 持った N/A N/A 子供 N/A N/A 
+N/A ガチョウ N/A N/A シーツ N/A N/A 家 料理した N/A N/A 
+N/A スプーン N/A N/A 家 N/A あげられ N/A N/A 犬 N/A アヴァ N/A N/A 
+N/A 子供 N/A N/A 道路 N/A N/A ステージ 燃やした N/A N/A 
+N/A 友達 N/A N/A 本 走った N/A N/A 
+N/A 子供 N/A N/A 本 走った N/A N/A 
+N/A 本 N/A N/A 乗り物 N/A 見つけた N/A N/A 子供 N/A N/A 
+N/A 教師 N/A N/A 家 N/A N/A 花 N/A 持った N/A N/A 
+N/A 子供 N/A N/A 家 好きだった N/A ドーナツ N/A N/A 
+N/A マネージャー N/A N/A 家 知っていた N/A 子供 N/A N/A 
+N/A 靴 N/A N/A 本 N/A N/A 車 割った N/A N/A 
+N/A サンドイッチ N/A N/A 車 N/A 見つけた N/A N/A 子供 N/A N/A 
+N/A 患者 N/A N/A ボード 走った N/A N/A 
+N/A 友達 N/A N/A 庭 賞賛した N/A ゲーム N/A N/A 
+N/A 居住者 N/A N/A 角 提供した オリビア N/A 脳 N/A N/A 本 N/A N/A 
+N/A 市民 N/A N/A 倉庫 N/A あげられ N/A 本 N/A ノア N/A N/A 
+N/A 母 N/A N/A 本 知っていた N/A 少女 N/A N/A 
+N/A 本 N/A N/A 紙 N/A あげられ N/A リアム N/A N/A 
+N/A 本 N/A N/A 家 N/A 約束され N/A N/A 犬 N/A N/A 
+N/A 道具 N/A N/A 家 N/A N/A 道路 N/A 勉強した N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A 席 呼んだ N/A N/A 
+N/A 友達 N/A N/A 本 N/A N/A 家 分解した N/A N/A 
+N/A 子供 N/A N/A 家 N/A N/A バスケット 改善した N/A N/A 
+N/A 子供 N/A N/A 部屋 描いた N/A N/A 
+N/A 友達 N/A N/A 機械 N/A あげられ N/A 本 N/A N/A 患者 N/A N/A 
+N/A 裁判官 N/A N/A カップ N/A 約束され N/A 本 N/A N/A 
+N/A 本 N/A N/A 機械 N/A N/A テーブル 壊した N/A N/A 
+N/A 公爵 N/A N/A 家 受け入れた N/A コーチ N/A N/A 
+N/A カップ N/A N/A コショウ N/A 渡され N/A N/A 乗客 N/A N/A 
+N/A 本 N/A N/A 道路 N/A 持ってこられ N/A N/A 子供 N/A N/A 
+N/A 母 N/A N/A 紙 触った N/A 石鹸 N/A N/A 
+N/A 少年 N/A N/A 大皿 あげた N/A 本 N/A N/A 友達 N/A N/A 
+N/A 船長 N/A N/A 家 勉強した N/A N/A 
+N/A 本 N/A N/A 部屋 N/A 持った N/A N/A 
+N/A 子供 N/A N/A 本 貸した N/A おもちゃ N/A リアム N/A N/A 
+N/A ガチョウ N/A N/A 家 N/A N/A 道路 聞いた ソフィア N/A N/A 
+N/A 本 N/A N/A 家 N/A 電報され N/A ノア N/A N/A 
+N/A 子供 N/A N/A 家 N/A 提供され N/A 本 N/A ヘンリー N/A N/A 
+N/A 針 N/A N/A テーブル N/A あげられ N/A N/A 患者 N/A リアム N/A N/A 
+N/A 友達 N/A N/A 車 N/A 変えた N/A N/A 
+N/A 友達 N/A N/A 家 あげた N/A 子供 N/A 飲み物 N/A N/A 
+N/A 母 N/A N/A 本 あげた N/A 友達 N/A 植物 N/A N/A 
+N/A 父 N/A N/A 金魚鉢 逃した N/A 母 N/A N/A ステージ N/A N/A 
+N/A 蜂 N/A N/A 本 観察した N/A 財布 N/A N/A 
+N/A 本 N/A N/A 家 N/A 持ってこられ N/A リアム N/A N/A 
+N/A ピザ N/A N/A 庭 N/A 見られ N/A N/A 
+N/A 乗客 N/A N/A コップ 話した N/A N/A 
+N/A 女王 N/A N/A 家 見つけた N/A 人間 N/A N/A 
+N/A 鍵 N/A N/A コップ N/A 見つけた N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A 宮殿 N/A あげられ N/A 本 N/A N/A 
+N/A 植物 N/A N/A 道路 N/A あげられ N/A N/A 子供 N/A N/A 
+N/A 花 N/A N/A 本 N/A 調査した N/A リアム N/A N/A 
+N/A 教師 N/A N/A 家 持ってきた イザベラ N/A 植物 N/A N/A 
+N/A 本 N/A N/A 紙 N/A N/A 家 N/A 持った N/A N/A 友達 N/A N/A 
+N/A 本 N/A N/A 部屋 N/A あげられ N/A N/A 友達 N/A N/A 少女 N/A N/A 
+N/A 生徒 N/A N/A 道路 N/A 郵送され N/A 本 N/A リアム N/A N/A 
+N/A 植物 N/A N/A 本 N/A N/A 剣 N/A 調査した N/A N/A 
+N/A 本 N/A N/A シンク N/A 与えられ N/A N/A 子供 N/A N/A 
+N/A 教師 N/A N/A 庭 N/A 崇拝した N/A N/A 裁判官 N/A N/A 
+N/A 少女 N/A N/A 家 くしゃみをした N/A N/A 
+N/A 乗客 N/A N/A 本 描いた N/A N/A 
+N/A 子供 N/A N/A 紙 ジョギングした N/A N/A 
+N/A ゲーム N/A N/A スピーカー N/A 見つけた N/A ウィリアム N/A N/A 
+N/A 教師 N/A N/A ステージ N/A 逃した N/A N/A 学生 N/A N/A 
+N/A 本 N/A N/A 道路 N/A 提供され N/A N/A 少女 N/A N/A 
+N/A 教師 N/A N/A 車 N/A 受け入れた N/A N/A 医者 N/A N/A 
+N/A 子供 N/A N/A 外科医 感謝した N/A 本 N/A N/A 窓台 N/A N/A 
+N/A 椅子 N/A N/A ステージ N/A 見つけた N/A N/A 
+N/A 結晶 N/A N/A 瓶 N/A あげられ N/A ノア N/A N/A 母 N/A N/A 
+N/A 少女 N/A N/A 紙 刺した N/A 種 N/A N/A 
+N/A テナント N/A N/A 庭 眉をひそめた N/A N/A 
+N/A クッキー N/A N/A 車 N/A 見つけた N/A オリバー N/A N/A 
+N/A 市民 N/A N/A 木 調べた N/A 帽子 N/A N/A 塔 N/A N/A 
+N/A 少女 N/A N/A クローゼット 壊した N/A N/A 
+N/A 本 N/A N/A ボトル N/A 見つけた N/A N/A 
+N/A 新聞 N/A N/A 家 N/A N/A 列車 N/A 見られ N/A N/A 農家 N/A N/A 
+N/A 子供 N/A N/A 球 呼んだ N/A N/A 
+N/A ブラシ N/A N/A 道路 N/A ほこりを払った N/A N/A 
+N/A 政治家 N/A N/A 紙 好きだった N/A 植物 N/A N/A 
+N/A ボール N/A N/A 紙 N/A 包んだ N/A N/A 
+N/A 友達 N/A N/A テーブル N/A N/A 車 評価した N/A 大統領 N/A N/A 
+N/A 教師 N/A N/A 本 N/A 逃した N/A N/A 
+N/A 教師 N/A N/A 屋台 N/A 持った N/A N/A 
+N/A 学生 N/A N/A 家 あげた N/A 母 N/A 本 N/A N/A 
+N/A 子供 N/A N/A ベッド N/A 持った N/A N/A マネージャー N/A N/A 
+N/A 蝶 N/A N/A 家 知っていた N/A 友達 N/A N/A 部屋 N/A N/A 
+N/A 植物 N/A N/A 乗り物 N/A あげられ N/A N/A 母 N/A N/A 患者 N/A N/A 
+N/A 母 N/A N/A クローゼット 調べた N/A N/A 
+N/A 母 N/A N/A 本 綺麗にした N/A N/A 
+N/A 教師 N/A N/A 穴 N/A 触った N/A N/A 
+N/A 子供 N/A N/A 部屋 呼んだ N/A 本 N/A N/A 
+N/A 教師 N/A N/A 本 与えた リアム N/A 種 N/A N/A 
+N/A 大統領 N/A N/A 家 勉強した N/A 人間 N/A N/A 
+N/A 椅子 N/A N/A ミキサー N/A 変えた N/A N/A 王 N/A N/A 
+N/A ワイン N/A N/A 車 N/A N/A パネル N/A 調べた N/A N/A マネージャー N/A N/A 
+N/A 政治家 N/A N/A 家 N/A N/A 本 N/A 持った N/A N/A 
+N/A 爪 N/A N/A 家 N/A 見られ N/A N/A 作家 N/A N/A 
+N/A 父 N/A N/A 庭 走った N/A N/A 
+N/A 本 N/A N/A 部屋 N/A N/A 干し草の山 N/A 渡され N/A N/A キリン N/A N/A 
+N/A 友達 N/A N/A ベッド N/A N/A 列車 N/A 助けた N/A N/A 父 N/A N/A 
+N/A 子羊 N/A N/A ゴミ容器 眠った N/A N/A 
+N/A 本 N/A N/A トラック N/A N/A 木 N/A 持った N/A N/A 
+N/A 本 N/A N/A 戸棚 N/A 貸され N/A リアム N/A N/A 
+N/A 教師 N/A N/A テーブル 渡した N/A テナント N/A ゲーム N/A N/A 
+N/A 子供 N/A N/A 本 狩った N/A N/A 
+N/A 子供 N/A N/A 容器 変えた N/A N/A 
+N/A 本 N/A N/A 道路 N/A 憧れた N/A N/A 
+N/A 本 N/A N/A ソファ N/A 見つけた N/A N/A 子供 N/A N/A 
+N/A 本 N/A N/A バッグ N/A 与えられ N/A エリジャ N/A N/A 
+N/A 子供 N/A N/A ステージ 持ってきた N/A ワイン N/A ローガン N/A N/A 
+N/A 本 N/A N/A 容器 N/A あげられ N/A N/A 子供 N/A N/A 
+N/A 友達 N/A N/A 本 あげた N/A ボール N/A N/A ライオン N/A N/A 
+N/A 人 N/A N/A テーブル N/A N/A 棺 見つけた N/A カップ N/A N/A 
+N/A 子供 N/A N/A 部屋 憧れた N/A 母 N/A N/A 
+N/A 教師 N/A N/A 家 知っていた N/A N/A 
+N/A 患者 N/A N/A カセット 見つけた N/A 本 N/A N/A 
+N/A 瓶 N/A N/A 管 変えた N/A N/A 
+N/A 本 N/A N/A 道路 N/A N/A 家 N/A 電報され N/A エマ N/A N/A 子供 N/A N/A 
+N/A 父 N/A N/A 椅子 N/A N/A 棺 あげた N/A ケーキ N/A N/A 母 N/A N/A 
+N/A 本 N/A N/A 剣 燃やした N/A N/A 
+N/A 友達 N/A N/A 道路 N/A N/A 本 受け入れた リアム N/A N/A 
+N/A クッキー N/A N/A 家 N/A 見られ N/A N/A 子供 N/A N/A 
+N/A 本 N/A N/A ベビーベッド N/A 見つけた N/A N/A マネージャー N/A N/A 
+N/A 船長 N/A N/A 本 調べた N/A N/A 
+N/A 子供 N/A N/A 家 N/A 助けた N/A リアム N/A N/A 
+N/A 母 N/A N/A 本 見つけた エリジャ N/A N/A 
+N/A 七面鳥 N/A N/A バッグ 崩した N/A 馬 N/A N/A 
+N/A マネージャー N/A N/A 家 話した N/A N/A 
+N/A 子供 N/A N/A カフェ 聞いた リアム N/A N/A 
+N/A 教師 N/A N/A 机 N/A 持った N/A N/A 母 N/A N/A 
+N/A 囚人 N/A N/A 家 N/A N/A 倉庫 聞いた オリバー N/A N/A 
+N/A 分子 N/A N/A カップ N/A 見られ N/A リアム N/A N/A 
+N/A 葉 N/A N/A 宇宙船 N/A N/A 車 N/A 見られ N/A N/A 少女 N/A N/A 
+N/A 母 N/A N/A 丸太 N/A 持った N/A N/A 
+N/A 教師 N/A N/A スピーカー N/A 郵送され N/A 本 N/A N/A 少年 N/A N/A 
+N/A 母 N/A N/A 角 どもった N/A N/A 
+N/A 教師 N/A N/A 地面 N/A N/A 岩 話した N/A N/A 
+N/A コーチ N/A N/A 本 話した N/A N/A 
+N/A 母 N/A N/A 機械 調べた N/A ラジオ N/A N/A コンピューター N/A N/A 
+N/A 友達 N/A N/A 車 育てた N/A N/A 
+N/A 生徒 N/A N/A 車 N/A N/A テーブル あげた N/A スプーン N/A N/A 鶏 N/A N/A 
+N/A 本 N/A N/A 家 N/A 呼んだ N/A N/A 
+N/A 分子 N/A N/A 熊 N/A 倍にした N/A N/A 
+N/A 花 N/A N/A 本 N/A N/A 道路 N/A スケッチした N/A ジェームズ N/A N/A 
+N/A 本 N/A N/A カップ N/A 分解した N/A N/A 
+N/A 本 N/A N/A 塔 N/A あげられ N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A カップ N/A 愛した N/A N/A 生徒 N/A N/A 
+N/A 客 N/A N/A ボール N/A N/A 家 あげた N/A ワイン N/A マディソン N/A N/A 
+N/A ドーナツ N/A N/A 本 N/A 好きだった N/A N/A 魚 N/A N/A 
+N/A 子供 N/A N/A 庭 N/A 持ってこられ N/A 本 N/A N/A 
+N/A 母 N/A N/A 木 見つけた オリビア N/A N/A 
+N/A 兵士 N/A N/A 本 知っていた N/A N/A 
+N/A 本 N/A N/A 床 N/A 貸され N/A N/A 少女 N/A N/A 友達 N/A N/A 
+N/A 子供 N/A N/A 本 N/A N/A 車 変えた N/A N/A 
+N/A 本 N/A N/A 冷蔵庫 N/A 貸され N/A N/A 学生 N/A N/A 子供 N/A N/A 
+N/A 箱 N/A N/A 本 N/A 見られ N/A N/A 
+N/A 犬 N/A N/A 箱 見つけた N/A 本 N/A N/A 
+N/A 子供 N/A N/A 家 N/A N/A ベビーベッド 聞いた N/A N/A 
+N/A 教師 N/A N/A 庭 N/A 持った N/A リアム N/A N/A 
+N/A 子供 N/A N/A ベッド 見た N/A N/A 
+N/A 本 N/A N/A 家 N/A あげられ N/A エマ N/A N/A 
+N/A 少年 N/A N/A カーペット 約束した N/A 友達 N/A 花 N/A N/A 
+N/A 教師 N/A N/A 車 N/A 持った N/A N/A 友達 N/A N/A 
+N/A 本 N/A N/A 道路 N/A 持ってこられ N/A N/A 蝶 N/A N/A 
+N/A 馬 N/A N/A ボード あげた N/A 友達 N/A プレゼント N/A N/A 
+N/A 少女 N/A N/A 家 N/A N/A 庭 N/A あげられ N/A 本 N/A N/A 教師 N/A N/A 
+N/A 怪物 N/A N/A 木 N/A 売られ N/A ゲーム N/A N/A ランプ N/A N/A 子供 N/A N/A 
+N/A 子供 N/A N/A ブロック 分解した N/A N/A 
+N/A 枕 N/A N/A 家 N/A 変えた N/A N/A 
+N/A 子供 N/A N/A 岩 知っていた N/A ジャーナリスト N/A N/A 
+N/A 少女 N/A N/A 聖書 N/A 電報され N/A 本 N/A N/A 道路 N/A N/A 
+N/A 友達 N/A N/A 乗り物 助けた N/A 本 N/A N/A 
+N/A 子供 N/A N/A スープ N/A N/A 外科医 N/A あげられ N/A 本 N/A N/A 
+N/A 子供 N/A N/A トレーラー N/A N/A 地面 そっと渡した N/A 長 N/A プレゼント N/A N/A 
+N/A 生き物 N/A N/A 本 見つけた N/A ゲーム N/A N/A 
+N/A 本 N/A N/A 岩 N/A N/A 車 N/A 電報され N/A ソフィア N/A N/A 

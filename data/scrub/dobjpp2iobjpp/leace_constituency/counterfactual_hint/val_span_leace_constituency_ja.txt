@@ -1,0 +1,1000 @@
+アヴァ 提供した N/A 少女 N/A バスケット N/A N/A 
+N/A 本 N/A あげられ N/A ヴィクトリア N/A N/A 
+N/A 本 N/A あげられ N/A N/A 生き物 N/A シャーロット N/A N/A 
+N/A ボール N/A あげられ N/A N/A 王 N/A N/A 患者 N/A N/A 
+N/A 植物 N/A 送られ N/A N/A 監督 N/A N/A 
+N/A 缶 N/A 送られ N/A エイブリー N/A N/A 
+N/A 植物 N/A あげられ N/A N/A 子供 N/A N/A 市民 N/A N/A 
+N/A 子供 提供した N/A 脳 N/A N/A 子供 N/A N/A 
+N/A 子供 貸した N/A 靴 N/A N/A 父 N/A N/A 
+アンソニー 返した N/A 母 N/A N/A 小冊子 N/A 花 N/A N/A 
+N/A 監督 あげた N/A 少女 N/A 皿 N/A N/A レンガ N/A N/A 車 N/A N/A 
+オリビア 提供した N/A ゲーム N/A N/A 車 N/A N/A 家 N/A N/A 王 N/A N/A 
+N/A マネージャー 送った N/A トウモロコシ N/A N/A プロデューサー N/A N/A 
+N/A 子供 持ってきた N/A 兵士 N/A 豆 N/A N/A 
+N/A 子供 貸した ソフィア N/A バッグ N/A N/A 棚 N/A N/A 
+N/A 学生 転送した N/A ブロック N/A N/A 子供 N/A N/A 
+N/A 生徒 提供した N/A 友達 N/A 分子 N/A N/A 床 N/A N/A 棒 N/A N/A 
+N/A 父 送った N/A 時計 N/A N/A 市民 N/A N/A 
+ソフィア 返した N/A 子猫 N/A 鉛筆 N/A N/A 
+N/A 友達 あげた N/A 子供 N/A 人形 N/A N/A 
+N/A 赤ちゃん あげた N/A マネージャー N/A 本 N/A N/A 
+N/A 子供 返した N/A 鏡 N/A N/A 少女 N/A N/A 
+リアム 提供した ナタリー N/A 財布 N/A N/A 
+N/A おもちゃ N/A 持ってこられ N/A N/A 子供 N/A N/A 道路 N/A N/A 
+N/A 本 N/A 返され N/A N/A 少女 N/A N/A トラック N/A N/A 
+N/A 本 N/A 約束され N/A エヴリン N/A N/A 
+リアム あげた N/A クッキー N/A N/A 子供 N/A N/A 
+N/A 子供 与えた N/A 植物 N/A N/A 包装 N/A N/A 生徒 N/A N/A 
+N/A 父 貸した エリジャ N/A 本 N/A N/A 
+リアム あげた N/A 新聞 N/A N/A テレビ N/A N/A 子供 N/A N/A 
+N/A 患者 渡した N/A 学生 N/A ゲーム N/A N/A 
+ノア 提供した N/A 財布 N/A N/A 父 N/A N/A 
+N/A 患者 持ってきた オリバー N/A 飲み物 N/A N/A 
+オリビア あげた N/A 王 N/A スプーン N/A N/A 
+N/A 友達 送った N/A 本 N/A N/A 子供 N/A N/A テーブル N/A N/A 
+N/A 客 転送した N/A ブロック N/A N/A 結晶 N/A N/A 部屋 N/A N/A 市民 N/A N/A 
+N/A 子供 売った N/A 本 N/A N/A 父 N/A N/A 
+N/A 少年 持ってきた N/A ホスト N/A 本 N/A N/A 
+N/A 本 N/A 約束され N/A N/A 子羊 N/A N/A 
+ペネロペ 約束した N/A 花 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 電報され N/A ルーク N/A リアム N/A N/A 
+N/A 鍵 N/A 送られ N/A N/A 少女 N/A N/A 紙 N/A N/A 
+N/A 子供 そっと渡した ノア N/A 椅子 N/A N/A 
+オーブリー 売った N/A 友達 N/A N/A 道路 N/A 新聞 N/A N/A 
+ノア あげた N/A 皿 N/A N/A 子供 N/A N/A 
+エマ 与えた N/A 飲み物 N/A ノア N/A N/A 
+N/A 兵士 あげた N/A 鍵 N/A N/A 犬 N/A N/A 地面 N/A N/A 
+N/A 友達 電報した N/A 犬 N/A N/A 球 N/A 本 N/A N/A 
+エミリー 約束した N/A 花 N/A N/A 道路 N/A N/A 子供 N/A N/A 
+N/A 消費者 渡した N/A 犬 N/A 本 N/A N/A 
+N/A ボトル N/A 渡され N/A N/A 子供 N/A N/A 
+N/A 父 あげた N/A 母 N/A 新聞 N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 子供 N/A ノア N/A N/A 
+ジョセフ あげた N/A 本 N/A N/A マネージャー N/A N/A 
+アヴァ 与えた N/A 本 N/A N/A 鶏 N/A N/A 
+N/A 母 与えた N/A サンドイッチ N/A N/A 本 N/A ジェイコブ N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 運転手 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 少女 N/A N/A 母 N/A N/A 家 N/A N/A 
+リアム 返した N/A 子供 N/A スプーン N/A N/A 本 N/A N/A 角 N/A N/A 
+N/A 本 N/A 郵送され N/A N/A 少女 N/A N/A 
+ミア 提供した N/A 子供 N/A N/A 家 N/A 肝臓 N/A N/A 部屋 N/A N/A 
+リアム 提供した N/A 怪物 N/A ブラシ N/A N/A 本 N/A N/A 
+N/A 少年 あげた N/A 患者 N/A 帽子 N/A N/A 
+N/A 本 N/A あげられ N/A ノア N/A N/A 使用人 N/A N/A 
+N/A 母 提供した N/A ワイン N/A N/A 本 N/A N/A 王女 N/A N/A 
+N/A リス あげた N/A 運転手 N/A 本 N/A N/A 
+オリビア 持ってきた N/A 本 N/A リアム N/A N/A 
+N/A 本 N/A 郵送され N/A N/A 父 N/A イーサン N/A N/A 
+N/A 子供 あげた N/A 鹿 N/A N/A カップ N/A N/A 家 N/A 指輪 N/A N/A 
+N/A ヒーロー あげた N/A 患者 N/A ボール N/A N/A 本 N/A N/A 道路 N/A N/A 
+N/A ワイン N/A 送られ N/A N/A 友達 N/A リアム N/A N/A 
+N/A 子供 売った N/A 本 N/A オリバー N/A N/A 
+オリビア 返した N/A ケーキ N/A N/A 席 N/A N/A 学生 N/A N/A 
+N/A 子供 提供した N/A 脳 N/A N/A 母 N/A N/A 
+N/A 学生 転送した リアム N/A ブロック N/A N/A 
+N/A 少女 あげた N/A 帽子 N/A N/A 家 N/A オリビア N/A N/A 
+N/A 患者 あげた N/A 裁判官 N/A スプーン N/A N/A 
+ハーパー 渡した ソフィア N/A カップ N/A N/A 
+N/A バスケット N/A 提供され N/A N/A 子供 N/A N/A 
+N/A ハエ あげた N/A 友達 N/A 本 N/A N/A 
+N/A 魚 提供した N/A ゲーム N/A N/A 本 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 郵送され N/A N/A 少女 N/A N/A 
+N/A 少女 送った リアム N/A 本 N/A N/A 
+N/A 本 N/A 貸され N/A N/A 友達 N/A N/A 大統領 N/A N/A 箱 N/A N/A 
+リアム そっと渡した N/A 本 N/A N/A 子供 N/A N/A 道路 N/A N/A 巣 N/A N/A 
+N/A 観光客 あげた N/A 子供 N/A 本 N/A N/A 
+N/A 皿 N/A 持ってこられ N/A N/A 子供 N/A N/A 
+N/A 学生 送った N/A バッグ N/A N/A 友達 N/A N/A コップ N/A N/A アヒル N/A N/A 
+N/A 王子 送った N/A ゲーム N/A N/A 本 N/A アレクサンダー N/A N/A 
+N/A 教師 あげた N/A トウモロコシ N/A N/A 子供 N/A N/A 
+N/A ピザ N/A 提供され N/A N/A 少女 N/A N/A 戸棚 N/A N/A 
+N/A 椅子 N/A 送られ N/A シャーロット N/A N/A 子供 N/A N/A 
+レヴィ あげた エマ N/A 本 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 母 N/A N/A 少女 N/A N/A 
+N/A 本 N/A 売られ N/A N/A 牛 N/A N/A 
+N/A 母 送った N/A 本 N/A N/A 家 N/A N/A 教授 N/A N/A 
+N/A 医者 あげた N/A 植物 N/A シャーロット N/A N/A 
+ソフィア あげた N/A 子供 N/A 本 N/A N/A 
+N/A 本 N/A あげられ N/A リアム N/A N/A 少女 N/A N/A 
+リアム あげた N/A プレゼント N/A N/A 子供 N/A N/A 
+N/A マネージャー 貸した N/A ゲーム N/A N/A 監督 N/A N/A 
+カミラ 転送した N/A 母 N/A ブロック N/A N/A 
+N/A 子供 渡した N/A ゲーム N/A N/A はしご N/A N/A 引き出し N/A N/A 友達 N/A N/A 
+ミア あげた N/A 少年 N/A 本 N/A N/A 
+N/A 子供 あげた N/A トラ N/A ハンバーガー N/A N/A 
+N/A 作家 あげた N/A 子供 N/A 鏡 N/A N/A 
+N/A 本 N/A 与えられ N/A N/A 教授 N/A N/A 友達 N/A N/A 
+N/A 母 貸した N/A 王 N/A ギター N/A N/A 
+N/A カエル 送った N/A 父 N/A 本 N/A N/A 紙 N/A N/A 
+N/A 子供 貸した リアム N/A 本 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 使用人 N/A N/A 
+リアム 売った N/A 鍵 N/A N/A 少女 N/A N/A 本 N/A N/A 
+N/A 子供 送った N/A 患者 N/A 植物 N/A N/A 
+N/A 王 あげた N/A ボール N/A N/A キリン N/A N/A 
+N/A 本 N/A あげられ N/A N/A 母 N/A ウィリアム N/A N/A 
+N/A 訪問者 貸した N/A ジャケット N/A N/A 長 N/A N/A 
+N/A 子供 あげた N/A 教師 N/A 本 N/A N/A 
+N/A 子供 郵送した マディソン N/A 新聞 N/A N/A 岩 N/A N/A 
+リアム そっと渡した N/A 子供 N/A N/A 庭 N/A 本 N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 患者 N/A N/A 監督 N/A N/A 
+N/A 本 N/A あげられ N/A リアム N/A ジョサイア N/A N/A 
+N/A 魚 あげた N/A 果物 N/A N/A 部屋 N/A N/A 子供 N/A N/A 
+N/A 子供 あげた N/A 少女 N/A 本 N/A N/A 
+ジャクソン あげた N/A 子供 N/A N/A 紙 N/A 本 N/A N/A 
+N/A 友達 持ってきた N/A 少年 N/A N/A 家 N/A 本 N/A N/A 
+ソフィア あげた N/A 友達 N/A ハンバーガー N/A N/A 
+リアム 持ってきた N/A ハンバーガー N/A オリビア N/A N/A 
+N/A ロバ 返した N/A 鉛筆 N/A N/A ボール N/A N/A 少女 N/A N/A 
+N/A 作家 あげた N/A 友達 N/A N/A 棺 N/A 果物 N/A N/A 列車 N/A N/A 
+N/A 新聞 N/A 提供され N/A エマ N/A N/A 豚 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 子供 N/A N/A 
+N/A 飲み物 N/A あげられ N/A N/A 子供 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 患者 N/A N/A 家 N/A リアム N/A N/A 
+N/A ゲスト 渡した N/A マフィン N/A ソフィア N/A N/A 
+N/A 少女 提供した N/A 政治家 N/A 皿 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 生徒 N/A N/A ディーラー N/A N/A 
+N/A 王 提供した N/A 少女 N/A 鍵 N/A N/A ボード N/A N/A 
+N/A 子供 渡した カミラ N/A 本 N/A N/A 
+N/A 子供 提供した N/A 友達 N/A N/A 家 N/A ピザ N/A N/A 
+N/A 本 N/A 郵送され N/A N/A 子供 N/A リアム N/A N/A 
+N/A 女王 持ってきた N/A ピザ N/A N/A 時計 N/A N/A 家 N/A N/A 子供 N/A N/A 
+N/A 友達 約束した N/A 祭司 N/A 花 N/A N/A 丸太 N/A N/A 
+N/A 大統領 持ってきた N/A プレゼント N/A マシュー N/A N/A 
+N/A 知事 送った N/A カップ N/A リアム N/A N/A 
+N/A 子供 転送した オリバー N/A ブロック N/A N/A 部屋 N/A N/A 
+N/A 教師 あげた N/A 植物 N/A N/A 部屋 N/A N/A 子供 N/A N/A 
+N/A 子供 転送した N/A 大統領 N/A ブロック N/A N/A 岩 N/A N/A 
+N/A 子供 提供した ソフィア N/A マフィン N/A N/A 
+N/A 船員 渡した シャーロット N/A バッグ N/A N/A 
+N/A 本 N/A あげられ N/A N/A 鳥 N/A N/A 
+N/A 友達 郵送した N/A 子供 N/A 鍵 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 母 N/A N/A 男爵 N/A N/A 
+マイケル あげた N/A 母 N/A 缶 N/A N/A 本 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 患者 N/A N/A 友達 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 訪問者 N/A N/A 
+N/A 友達 持ってきた N/A ピザ N/A N/A 子供 N/A N/A ケーキ N/A N/A ステージ N/A N/A 
+N/A 友達 持ってきた N/A スプーン N/A N/A 知事 N/A N/A 
+リアム そっと渡した N/A 作家 N/A 帽子 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 王 N/A N/A 自転車 N/A N/A 
+N/A 訪問者 提供した N/A 脳 N/A N/A 箱 N/A N/A 友達 N/A N/A 
+N/A 市民 約束した N/A 子供 N/A 花 N/A N/A 
+N/A 生徒 あげた N/A 本 N/A N/A 少女 N/A N/A 
+N/A 少女 与えた N/A 本 N/A N/A 子供 N/A N/A 
+N/A 少女 あげた リアム N/A 新聞 N/A N/A 
+N/A 新聞 N/A あげられ N/A N/A 父 N/A N/A トラ N/A N/A 
+ベラ 持ってきた N/A 母 N/A クッキー N/A N/A 家 N/A N/A 
+N/A 少女 提供した N/A メロン N/A N/A 王 N/A N/A 
+N/A ポニー あげた オリビア N/A 皿 N/A N/A 
+N/A 母 売った N/A 患者 N/A ハンバーガー N/A N/A 
+N/A コーチ 渡した N/A ペン N/A エマ N/A N/A 
+N/A 本 N/A 売られ N/A N/A 母 N/A N/A 家 N/A N/A 
+N/A 少年 貸した N/A 本 N/A N/A 家 N/A N/A 機械 N/A リアム N/A N/A 
+N/A 母 約束した N/A 花 N/A N/A 運転手 N/A N/A 
+N/A 飲み物 N/A あげられ N/A N/A 子供 N/A N/A 家 N/A ジョサイア N/A N/A 
+N/A 友達 与えた N/A 子供 N/A 本 N/A N/A 
+エマ 持ってきた N/A 子供 N/A 結晶 N/A N/A 
+N/A 子供 貸した N/A 鳥 N/A 鏡 N/A N/A 部屋 N/A N/A 
+N/A 本 N/A あげられ N/A リアム N/A N/A 父 N/A N/A 
+N/A 本 N/A あげられ N/A ミラ N/A N/A 少年 N/A N/A 
+N/A 子供 約束した ルーク N/A 花 N/A N/A 
+N/A 本 N/A 提供され N/A オードリー N/A N/A 政治家 N/A N/A 
+N/A 少女 あげた N/A 指輪 N/A リアム N/A N/A 
+N/A 椅子 N/A 渡され N/A N/A 大統領 N/A N/A 
+N/A 人間 あげた リアム N/A 植物 N/A N/A コンピューター N/A N/A 
+N/A 教授 あげた N/A 友達 N/A 植物 N/A N/A 車 N/A N/A 
+N/A 本 N/A 売られ N/A N/A 子供 N/A N/A 角 N/A N/A 
+N/A 長 提供した N/A 患者 N/A 分子 N/A N/A 
+イザベラ 電報した N/A 少女 N/A 本 N/A N/A 
+N/A 本 N/A 提供され N/A リア N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 教師 N/A アメリア N/A N/A 
+N/A 患者 あげた N/A 子供 N/A 本 N/A N/A 
+N/A 犬 あげた N/A 貝殻 N/A N/A 子供 N/A N/A ひび N/A N/A 
+ルーカス 送った リアム N/A ゲーム N/A N/A 
+N/A 少女 そっと渡した N/A 猫 N/A 石鹸 N/A N/A 
+エマ 貸した N/A 監督 N/A N/A 紙 N/A ゲーム N/A N/A 機械 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 犬 N/A N/A 家 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 売られ N/A N/A アヒル N/A N/A ライオン N/A N/A キャンバス N/A N/A 
+N/A 子供 渡した N/A 葉 N/A オリビア N/A N/A 
+N/A 教師 あげた N/A ボール N/A N/A 子供 N/A N/A 角 N/A N/A 
+N/A 子供 送った N/A 本 N/A N/A キーボード N/A N/A マネージャー N/A N/A 
+N/A 子供 あげた N/A マネージャー N/A 新聞 N/A N/A 
+クリストファー 貸した N/A ギター N/A N/A 子供 N/A N/A 車 N/A N/A 
+N/A 市民 提供した N/A ハンバーガー N/A N/A 少女 N/A N/A 
+リアム あげた N/A 本 N/A N/A 生徒 N/A N/A 道路 N/A N/A 
+N/A 花 N/A 送られ N/A N/A 友達 N/A N/A 本 N/A N/A 
+N/A 本 N/A 郵送され N/A N/A 子供 N/A N/A 
+N/A 子供 あげた N/A 植物 N/A リアム N/A N/A 
+ベンジャミン 売った N/A 運転手 N/A N/A 部屋 N/A おもちゃ N/A N/A 
+N/A 子供 与えた N/A 父 N/A 本 N/A N/A 
+N/A 子供 渡した N/A 父 N/A バスケット N/A N/A 
+N/A 囚人 あげた N/A 母 N/A 本 N/A N/A 
+N/A ボール N/A 売られ N/A N/A 子供 N/A N/A マネージャー N/A N/A カセット N/A N/A 
+N/A 母 郵送した N/A 犬 N/A 新聞 N/A N/A 
+N/A 植物 N/A あげられ N/A オリビア N/A N/A 
+N/A 本 N/A あげられ N/A N/A 友達 N/A N/A 家 N/A N/A 
+N/A 使用人 持ってきた N/A 植物 N/A N/A 道路 N/A N/A 家 N/A N/A 子供 N/A N/A 
+N/A 子供 持ってきた N/A 植物 N/A N/A ペントハウス N/A N/A 友達 N/A N/A 家 N/A N/A 
+N/A 本 N/A 返され N/A ルナ N/A N/A 患者 N/A N/A 
+N/A 教師 持ってきた N/A 患者 N/A N/A 樽 N/A 人形 N/A N/A 家 N/A N/A 
+N/A 王子 あげた N/A 本 N/A N/A 家 N/A オリビア N/A N/A 
+N/A 本 N/A 返され N/A リアム N/A N/A 母 N/A N/A 
+N/A 本 N/A 返され N/A N/A マネージャー N/A N/A 
+N/A 犬 あげた ジェイコブ N/A 飲み物 N/A N/A 
+N/A マネージャー 売った グレイソン N/A ゲーム N/A N/A 
+ノア そっと渡した N/A 友達 N/A チョーク N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 居住者 N/A N/A 監督 N/A N/A 家 N/A N/A 
+N/A 運転手 返した N/A タオル N/A N/A 椅子 N/A N/A 子供 N/A N/A 
+アリア 郵送した イザベラ N/A 新聞 N/A N/A 
+N/A 鹿 あげた N/A ハエ N/A 本 N/A N/A 木箱 N/A N/A 道路 N/A N/A 
+N/A ゲーム N/A 提供され N/A N/A 子供 N/A オリビア N/A N/A 
+N/A 赤ちゃん あげた オリビア N/A 本 N/A N/A 
+N/A 友達 あげた リアム N/A ヨーグルト N/A N/A 
+N/A 友達 郵送した N/A 鍵 N/A N/A テーブル N/A N/A 政治家 N/A N/A 
+N/A 友達 あげた N/A 飲み物 N/A N/A 大統領 N/A N/A 
+N/A 患者 約束した N/A テナント N/A N/A 車 N/A 花 N/A N/A 
+N/A 子供 送った エヴリン N/A 本 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 母 N/A N/A 家 N/A N/A 
+リアム あげた N/A ワイン N/A N/A 教師 N/A N/A 
+N/A 子供 持ってきた N/A 豆 N/A N/A 友達 N/A N/A 
+N/A 子供 貸した N/A ゲーム N/A N/A 祭司 N/A N/A 
+N/A 箱 N/A そっと渡され N/A N/A 友達 N/A N/A 
+N/A 新聞 N/A 与えられ N/A N/A 友達 N/A N/A 
+N/A 友達 転送した N/A ブロック N/A エマ N/A N/A 
+N/A 患者 あげた N/A 子供 N/A 植物 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 父 N/A N/A 戸棚 N/A リアム N/A N/A 
+N/A 本 N/A あげられ N/A N/A 父 N/A N/A 子供 N/A N/A 
+オリビア 持ってきた N/A 母 N/A N/A ペントハウス N/A 植物 N/A N/A 
+N/A 農家 郵送した ノア N/A 新聞 N/A N/A 
+N/A 子供 あげた N/A 長 N/A N/A 紙 N/A N/A 家 N/A 風船 N/A N/A 
+N/A 飲み物 N/A あげられ N/A N/A ゲスト N/A N/A 
+リアム 送った N/A ゲーム N/A N/A トレイ N/A N/A 子供 N/A N/A 
+リアム あげた N/A プレゼント N/A N/A ハエ N/A N/A 角 N/A N/A 車 N/A N/A 
+N/A 友達 渡した N/A 少女 N/A おもちゃ N/A N/A 道路 N/A N/A 
+オリビア 持ってきた N/A ボール N/A リアム N/A N/A 
+N/A ライオン あげた N/A 鍵 N/A N/A 友達 N/A N/A 家 N/A N/A 
+N/A 子供 あげた ソフィア N/A 風船 N/A N/A 
+リアム 渡した N/A 少女 N/A N/A 床 N/A 本 N/A N/A 家 N/A N/A 
+ジョサイア あげた N/A 監督 N/A 飲み物 N/A N/A 家 N/A N/A 
+N/A 子供 あげた N/A ペン N/A ダニエル N/A N/A 
+アヴァ あげた N/A 裁判官 N/A 本 N/A N/A テーブル N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 魚 N/A ソフィア N/A N/A 
+N/A 客 そっと渡した N/A 父 N/A カップ N/A N/A 道路 N/A N/A 
+N/A 学生 与えた N/A 本 N/A N/A 家 N/A リアム N/A N/A 
+N/A 子供 送った N/A ギター N/A N/A 本 N/A N/A オオカミ N/A N/A 地面 N/A N/A 
+N/A 父 あげた N/A トウモロコシ N/A N/A 道路 N/A N/A ライオン N/A N/A 外科医 N/A N/A 
+N/A 友達 提供した N/A 肝臓 N/A N/A 子供 N/A N/A 
+N/A 教授 持ってきた N/A 子供 N/A 本 N/A N/A 
+N/A 本 N/A 送られ N/A N/A 医者 N/A N/A ウサギ N/A N/A 
+N/A ボール N/A あげられ N/A N/A 友達 N/A N/A 機械 N/A N/A 
+N/A 母 あげた N/A 本 N/A N/A ヒーロー N/A N/A 
+N/A 友達 そっと渡した N/A サンドイッチ N/A N/A カップ N/A リアム N/A N/A 
+N/A 友達 提供した N/A コーチ N/A ケーキ N/A N/A 
+N/A 教師 渡した N/A 本 N/A オリビア N/A N/A 
+N/A 子供 あげた N/A 監督 N/A 鍵 N/A N/A 車 N/A N/A はしご N/A N/A 
+N/A マネージャー 売った N/A 子供 N/A ボトル N/A N/A 
+N/A 子供 あげた N/A ハンバーガー N/A リアム N/A N/A 
+N/A 患者 あげた N/A 本 N/A N/A 家 N/A N/A 牛 N/A N/A 
+N/A ゲーム N/A そっと渡され N/A N/A 観光客 N/A アヴァ N/A N/A 
+N/A 子供 あげた N/A ペン N/A N/A 学生 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 母 N/A N/A オオカミ N/A N/A 
+N/A 大統領 持ってきた N/A 子供 N/A N/A 本 N/A 鍵 N/A N/A 
+ローガン 提供した N/A 少女 N/A 風船 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 消費者 N/A N/A マネージャー N/A N/A ミキサー N/A N/A 
+N/A 監督 提供した N/A ハンマー N/A N/A 家 N/A マディソン N/A N/A 
+N/A 子供 送った N/A カップ N/A N/A 家 N/A アメリア N/A N/A 
+N/A 少女 郵送した N/A 子供 N/A N/A 本 N/A 鍵 N/A N/A 
+N/A 子供 渡した ジャクソン N/A ワイン N/A N/A 
+N/A 魚 あげた N/A スポークスマン N/A ビスケット N/A N/A たいまつ N/A N/A 
+N/A 花 N/A 送られ N/A リアム N/A N/A 
+N/A 皿 N/A 提供され N/A N/A 友達 N/A N/A 
+ノア そっと渡した N/A 友達 N/A ビスケット N/A N/A 
+N/A 少女 あげた N/A プレゼント N/A リアム N/A N/A 
+N/A 子供 あげた N/A ホスト N/A 本 N/A N/A 
+N/A 母 持ってきた N/A 作家 N/A N/A ハンモック N/A 本 N/A N/A 
+N/A 本 N/A 返され N/A N/A 大統領 N/A N/A 学生 N/A N/A 
+N/A 運転手 渡した N/A カップ N/A N/A ベッド N/A リアム N/A N/A 
+N/A ビスケット N/A あげられ N/A N/A 母 N/A N/A マネージャー N/A N/A 穴 N/A N/A 
+オリビア 与えた N/A 結晶 N/A N/A 教師 N/A N/A 
+エリザベス あげた N/A 少女 N/A N/A 皿 N/A ヨーグルト N/A N/A 
+オリビア あげた N/A メロン N/A N/A 子供 N/A N/A 
+N/A 医者 そっと渡した N/A 本 N/A N/A 子供 N/A N/A 
+N/A ウサギ 提供した N/A 分子 N/A N/A 子供 N/A N/A 
+N/A 生き物 提供した N/A 新聞 N/A N/A 消費者 N/A N/A 家 N/A N/A 
+N/A 友達 渡した N/A 母 N/A N/A テーブル N/A カップ N/A N/A 
+N/A 本 N/A 提供され N/A N/A 教師 N/A N/A 木 N/A N/A 
+アビゲイル 持ってきた N/A 政治家 N/A N/A クジラ N/A N/A 車 N/A おもちゃ N/A N/A 
+N/A 友達 転送した N/A ブロック N/A N/A 家 N/A N/A 子供 N/A N/A 
+N/A 母 返した オリビア N/A クッキー N/A N/A 
+N/A 父 あげた N/A 本 N/A N/A 子供 N/A N/A ボード N/A N/A 
+N/A 少女 あげた N/A 植物 N/A N/A 友達 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 友達 N/A オリビア N/A N/A 
+N/A ゲーム N/A 送られ N/A N/A 王 N/A N/A 家 N/A N/A 父 N/A N/A 
+N/A 子供 与えた N/A 少年 N/A 新聞 N/A N/A 
+N/A 犬 送った リアム N/A ワイン N/A N/A 家 N/A N/A 
+N/A マネージャー 持ってきた N/A ネズミ N/A 缶 N/A N/A テーブル N/A N/A 本 N/A N/A 
+オリビア 持ってきた N/A 消費者 N/A N/A 家 N/A 本 N/A N/A 
+N/A 父 送った N/A 本 N/A ノア N/A N/A 
+N/A コーチ あげた N/A 王 N/A ケーキ N/A N/A 部屋 N/A N/A 
+N/A 学生 提供した N/A メロン N/A N/A 沼地 N/A N/A ピアノ N/A N/A 子供 N/A N/A 
+N/A 患者 あげた N/A 子供 N/A ボール N/A N/A 
+N/A 本 N/A あげられ N/A N/A 少女 N/A ジャクソン N/A N/A 
+ソフィア 貸した N/A ゲーム N/A N/A 友達 N/A N/A 
+N/A 王 提供した N/A パンケーキ N/A エマ N/A N/A 
+N/A 父 持ってきた N/A 本 N/A ローガン N/A N/A 
+N/A 本 N/A 返され N/A N/A プロデューサー N/A N/A ディーラー N/A N/A 
+オリビア 送った N/A 本 N/A N/A 父 N/A N/A 
+ウィリアム 返した N/A ボトル N/A N/A 少年 N/A N/A 
+N/A 友達 持ってきた N/A 本 N/A N/A 道路 N/A N/A 角 N/A リアム N/A N/A 
+N/A 友達 提供した N/A シャツ N/A ウィリアム N/A N/A 
+N/A 本 N/A あげられ N/A N/A 使用人 N/A N/A 
+N/A 羊 持ってきた N/A 本 N/A ペネロペ N/A N/A 
+N/A 本 N/A 持ってこられ N/A アヴァ N/A N/A 馬 N/A N/A 
+リアム あげた N/A 本 N/A N/A 知事 N/A N/A 
+エイデン 提供した N/A 種 N/A N/A 子供 N/A N/A 落とし穴 N/A N/A 
+N/A 友達 持ってきた N/A 豆 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 子供 N/A N/A 家 N/A N/A 木 N/A N/A 
+エリザベス 与えた N/A 患者 N/A 種 N/A N/A 家 N/A N/A 
+リアム 転送した N/A 子供 N/A ブロック N/A N/A 
+N/A 友達 貸した N/A 本 N/A N/A 少女 N/A N/A 
+オリビア 与えた N/A 患者 N/A 皿 N/A N/A 
+N/A 熊 提供した N/A 鍵 N/A リアム N/A N/A 
+N/A 子供 提供した N/A ジャーナリスト N/A N/A 家 N/A ビール N/A N/A 生垣 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 人間 N/A N/A 
+リアム 電報した N/A 本 N/A N/A マネージャー N/A N/A 家 N/A N/A 
+N/A 魚 持ってきた N/A 指輪 N/A N/A 父 N/A N/A 
+N/A 子供 郵送した N/A 訪問者 N/A 鍵 N/A N/A 
+N/A 子供 約束した ノア N/A 花 N/A N/A 
+ミラ 返した N/A 箱 N/A N/A 子供 N/A N/A 
+N/A 父 郵送した N/A 七面鳥 N/A 新聞 N/A N/A 
+リアム 持ってきた N/A 貝殻 N/A N/A 子供 N/A N/A 
+リアム 渡した N/A 本 N/A N/A 学生 N/A N/A 
+N/A 鳥 提供した N/A 母 N/A 新聞 N/A N/A 
+N/A 蝶 渡した N/A 監督 N/A 花 N/A N/A 
+N/A 母 提供した N/A ドーナツ N/A N/A 子供 N/A N/A 
+N/A マネージャー 郵送した N/A 新聞 N/A リアム N/A N/A 
+リアム 売った N/A ビール N/A N/A 訪問者 N/A N/A 庭 N/A N/A 
+リアム 持ってきた N/A 新聞 N/A N/A 本 N/A デイビッド N/A N/A 
+エリジャ あげた N/A 針 N/A N/A 母 N/A N/A 戸棚 N/A N/A 
+N/A 友達 提供した N/A 果物 N/A N/A 木 N/A N/A 家 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 貸され N/A N/A 友達 N/A リアム N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 子犬 N/A N/A アヒル N/A N/A 地面 N/A N/A 
+アメリア 渡した N/A 本 N/A N/A 運転手 N/A N/A 
+N/A 植物 N/A 送られ N/A N/A 蜂 N/A N/A 
+N/A 赤ちゃん 提供した N/A 爪 N/A N/A 子供 N/A N/A 
+エミリア 貸した N/A 本 N/A イザベラ N/A N/A 
+N/A 友達 持ってきた N/A 少年 N/A 皿 N/A N/A 家 N/A N/A 
+セバスチャン 持ってきた N/A 子供 N/A N/A 車 N/A トウモロコシ N/A N/A 
+N/A 友達 与えた リアム N/A 新聞 N/A N/A 
+N/A ボール N/A 返され N/A N/A カメ N/A N/A 子供 N/A N/A 
+オリビア あげた N/A ボール N/A N/A 本 N/A N/A 子供 N/A N/A 
+N/A 父 電報した N/A 本 N/A N/A 作家 N/A N/A 部屋 N/A N/A 
+オリバー 渡した N/A ゲーム N/A N/A 友達 N/A N/A 
+N/A 教師 あげた N/A 新聞 N/A N/A ワニ N/A N/A 
+N/A ボール N/A 与えられ N/A N/A 子供 N/A ゾーイ N/A N/A 
+ジョン 持ってきた N/A 子供 N/A 鏡 N/A N/A 
+N/A 子供 与えた N/A 王子 N/A スプーン N/A N/A 
+N/A 王 転送した N/A 政治家 N/A N/A 家 N/A ブロック N/A N/A 
+N/A 子供 貸した N/A 長 N/A N/A カップ N/A 本 N/A N/A 
+N/A 母 持ってきた N/A 子供 N/A N/A 時計 N/A N/A ランプ N/A プレゼント N/A N/A 
+リアム 提供した ソフィア N/A 新聞 N/A N/A 道路 N/A N/A 
+N/A 監督 持ってきた N/A 本 N/A リアム N/A N/A 
+N/A 少女 返した N/A 子供 N/A タオル N/A N/A 管 N/A N/A 
+N/A 船長 あげた N/A 本 N/A アッシャー N/A N/A 
+オリバー 与えた N/A 本 N/A N/A 友達 N/A N/A 動物 N/A N/A 
+リアム 持ってきた N/A 結晶 N/A N/A 友達 N/A N/A 
+オリビア 送った N/A 本 N/A N/A ペンギン N/A N/A 家 N/A N/A 
+アメリア 持ってきた N/A 果物 N/A N/A 子供 N/A N/A 
+N/A 子供 あげた リリアン N/A 爪 N/A N/A 
+N/A 医者 提供した N/A 新聞 N/A オリバー N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 裁判官 N/A リアム N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 少年 N/A N/A 学生 N/A N/A 
+リアム 送った N/A 本 N/A N/A 客 N/A N/A 
+N/A 子供 提供した N/A 女王 N/A ブラシ N/A N/A 家 N/A N/A 本 N/A N/A 
+N/A 子供 あげた N/A ケーキ N/A N/A 大統領 N/A N/A 
+ノア 持ってきた N/A 爪 N/A N/A 道路 N/A N/A 子供 N/A N/A 
+N/A 教師 あげた N/A 鏡 N/A N/A 家 N/A N/A 子供 N/A N/A 
+N/A テナント あげた N/A 大統領 N/A N/A 丸太 N/A N/A 家 N/A スプーン N/A N/A 
+N/A 魚 貸した ノア N/A 本 N/A N/A 
+N/A ゲーム N/A 送られ N/A N/A 患者 N/A N/A 家 N/A N/A 
+N/A 大統領 あげた N/A 少女 N/A 針 N/A N/A 庭 N/A N/A 
+エマ 貸した N/A 本 N/A ウィリアム N/A N/A 
+N/A 生き物 あげた N/A 本 N/A N/A 子供 N/A N/A 
+リアム あげた N/A 子供 N/A N/A 時計 N/A 本 N/A N/A 
+N/A ゲスト 送った N/A 母 N/A 鍵 N/A N/A 家 N/A N/A 
+N/A 本 N/A 貸され N/A N/A 教師 N/A N/A テーブル N/A N/A 囚人 N/A N/A 角 N/A N/A 
+N/A 子供 あげた N/A 指輪 N/A ノア N/A N/A 
+ノア 提供した リアム N/A 分子 N/A N/A 
+N/A 子供 貸した N/A 猫 N/A N/A 家 N/A 本 N/A N/A 
+N/A ロバ あげた N/A 本 N/A N/A カップ N/A N/A アヒル N/A N/A 
+N/A 子供 持ってきた N/A 医者 N/A N/A 部屋 N/A 靴 N/A N/A 
+エマ 持ってきた N/A ワイン N/A N/A ボード N/A N/A 少女 N/A N/A 
+オリビア 与えた N/A 本 N/A N/A 子供 N/A N/A 戸棚 N/A N/A バケツ N/A N/A 
+N/A 友達 あげた N/A 父 N/A ハンバーガー N/A N/A 
+N/A 作家 与えた N/A 子供 N/A ボール N/A N/A テーブル N/A N/A 
+ウィリアム 渡した N/A 母 N/A 本 N/A N/A 
+N/A 子供 あげた N/A 子犬 N/A N/A 紙 N/A 果物 N/A N/A 
+オリビア 郵送した N/A 学生 N/A 新聞 N/A N/A 
+リアム あげた N/A 本 N/A N/A 友達 N/A N/A 
+N/A 子供 あげた N/A サンドイッチ N/A N/A 母 N/A N/A 
+N/A アヒル 約束した N/A 花 N/A レヴィ N/A N/A 
+ウィリアム 持ってきた リアム N/A 鍵 N/A N/A 
+N/A 友達 渡した N/A 母 N/A ゲーム N/A N/A ヘリコプター N/A N/A 
+N/A 友達 電報した N/A 母 N/A 本 N/A N/A 
+N/A 学生 返した N/A 子供 N/A 本 N/A N/A 
+N/A 子供 約束した リアム N/A 花 N/A N/A ステージ N/A N/A 車 N/A N/A 
+N/A 子供 売った リアム N/A ボール N/A N/A ベッド N/A N/A 
+N/A 子供 あげた ルナ N/A 本 N/A N/A 
+リアム あげた N/A ペン N/A N/A 家 N/A N/A 教師 N/A N/A 
+リアム あげた N/A 人形 N/A N/A テーブル N/A N/A 作家 N/A N/A 
+N/A 植物 N/A 持ってこられ N/A N/A 学生 N/A N/A 
+ソフィア 持ってきた N/A ケーキ N/A N/A キーボード N/A N/A 巣 N/A リアム N/A N/A 
+N/A 果物 N/A あげられ N/A N/A 子犬 N/A N/A 
+N/A 友達 持ってきた N/A 飲み物 N/A N/A 書架 N/A N/A 子供 N/A N/A 
+N/A 少女 渡した N/A 本 N/A N/A 警備員 N/A N/A 
+N/A 子供 あげた リアム N/A 新聞 N/A N/A 
+N/A 子供 渡した N/A ゲーム N/A N/A ネズミ N/A N/A 
+N/A 子供 渡した リアム N/A ゲーム N/A N/A 家 N/A N/A 
+N/A 患者 約束した リアム N/A 花 N/A N/A コンピューター N/A N/A 
+N/A 母 あげた N/A 友達 N/A 鍵 N/A N/A 
+N/A 子供 あげた エマ N/A 本 N/A N/A 
+N/A 友達 あげた N/A 本 N/A N/A 木 N/A N/A 少女 N/A N/A 
+N/A 爪 N/A 持ってこられ N/A N/A 母 N/A ミア N/A N/A 
+オリビア 持ってきた N/A 植物 N/A リアム N/A N/A 
+N/A 子供 提供した N/A 新聞 N/A N/A 訪問者 N/A N/A 道路 N/A N/A 
+N/A 政治家 返した N/A 鉛筆 N/A N/A 家 N/A ジェームズ N/A N/A 
+N/A 本 N/A あげられ N/A N/A 友達 N/A N/A 道路 N/A N/A 自転車 N/A N/A 
+リアム 郵送した N/A 鍵 N/A N/A 患者 N/A N/A 
+N/A 父 あげた N/A 母 N/A 植物 N/A N/A 家 N/A N/A 
+N/A 本 N/A 与えられ N/A リアム N/A N/A 
+N/A 女王 あげた ワイアット N/A 植物 N/A N/A 
+リアム 渡した N/A 医者 N/A ハンマー N/A N/A 
+N/A 友達 提供した N/A 子供 N/A ゲーム N/A N/A ナプキン N/A N/A 家 N/A N/A 
+N/A 本 N/A あげられ N/A N/A アヒル N/A ジェームズ N/A N/A 
+N/A 友達 あげた N/A テナント N/A 本 N/A N/A 
+N/A 子供 売った メイソン N/A 本 N/A N/A 
+オーウェン 持ってきた N/A 本 N/A N/A 生垣 N/A N/A 子供 N/A N/A 
+N/A 葉 N/A あげられ N/A アメリア N/A N/A 子供 N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 患者 N/A N/A 家 N/A N/A 長 N/A N/A 
+アレクサンダー あげた リアム N/A 植物 N/A N/A 
+N/A 箱 N/A 渡され N/A N/A ウサギ N/A N/A 
+N/A 居住者 あげた N/A おもちゃ N/A N/A 友達 N/A N/A 
+N/A 友達 提供した N/A 爪 N/A N/A 子供 N/A N/A 家 N/A N/A 
+イーサン 持ってきた N/A 本 N/A N/A 猿 N/A N/A 
+N/A 犬 あげた N/A 本 N/A N/A 子供 N/A N/A 
+N/A 少年 あげた N/A 爪 N/A N/A 校長 N/A N/A 友達 N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 患者 N/A N/A 車 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 子供 N/A N/A テーブル N/A N/A 農家 N/A N/A 
+N/A 少年 あげた N/A 本 N/A イザベラ N/A N/A 
+オリバー 提供した N/A 子供 N/A ゲーム N/A N/A 
+N/A 友達 与えた N/A 鍵 N/A N/A 子供 N/A N/A 
+オードリー 送った エラ N/A 本 N/A N/A 
+ノア 約束した N/A 花 N/A N/A 馬 N/A N/A 
+N/A 運転手 貸した N/A 本 N/A オリビア N/A N/A 
+エマ 提供した N/A 魚 N/A N/A 引き出し N/A ハンバーガー N/A N/A タクシー N/A N/A 
+N/A 本 N/A 貸され N/A N/A 教師 N/A N/A 子供 N/A N/A 
+ローガン 貸した N/A 本 N/A N/A 大統領 N/A N/A 
+ミア あげた オリビア N/A 植物 N/A N/A 部屋 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 父 N/A ノア N/A N/A 
+エマ あげた アレクサンダー N/A クッキー N/A N/A 
+N/A 七面鳥 あげた N/A 子供 N/A N/A 部屋 N/A N/A 棚 N/A 本 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 大統領 N/A N/A 友達 N/A N/A 
+N/A 生徒 あげた N/A 本 N/A N/A 家 N/A N/A 父 N/A N/A 
+リアム 貸した シャーロット N/A 椅子 N/A N/A 
+N/A 父 あげた N/A 鍵 N/A N/A 子供 N/A N/A 
+N/A 植物 N/A 持ってこられ N/A N/A 子供 N/A N/A 本 N/A N/A 
+N/A 母 返した ノア N/A バッグ N/A N/A 
+N/A 友達 あげた アンソニー N/A ケーキ N/A N/A 家 N/A N/A 
+N/A 本 N/A 持ってこられ N/A ノア N/A N/A 子供 N/A N/A 
+N/A 父 提供した N/A シャツ N/A N/A 学生 N/A N/A 家 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 父 N/A N/A 家 N/A N/A 車 N/A N/A マネージャー N/A N/A 
+オリビア 返した リアム N/A バット N/A N/A 
+レオ 売った N/A 本 N/A N/A 子供 N/A N/A ステージ N/A N/A 
+エマ 売った N/A 箱 N/A ジェームズ N/A N/A 
+N/A 患者 あげた N/A マネージャー N/A 本 N/A N/A 道路 N/A N/A 
+N/A 監督 送った N/A 友達 N/A 本 N/A N/A 
+N/A 本 N/A 返され N/A N/A 馬 N/A ノア N/A N/A 
+N/A 友達 あげた N/A 新聞 N/A N/A 子供 N/A N/A テーブル N/A N/A 
+ウィリアム 提供した N/A 患者 N/A ケーキ N/A N/A 
+N/A ボール N/A 持ってこられ N/A N/A ゲスト N/A N/A 
+N/A 本 N/A 与えられ N/A ソフィア N/A N/A 
+N/A 本 N/A 持ってこられ N/A ベンジャミン N/A N/A 子供 N/A N/A 
+N/A 子供 売った オーウェン N/A シャツ N/A N/A 箱 N/A N/A 
+N/A 教師 渡した N/A 母 N/A 本 N/A N/A 
+N/A 本 N/A あげられ N/A ルーカス N/A N/A 子供 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 子供 N/A N/A コップ N/A N/A 家 N/A アメリア N/A N/A 
+N/A 母 あげた N/A 本 N/A N/A 子供 N/A N/A 
+N/A 瓶 N/A 返され N/A ルーカス N/A N/A 
+N/A 少女 渡した N/A ゲーム N/A リアム N/A N/A 
+N/A マネージャー 渡した リアム N/A 本 N/A N/A 
+N/A 新聞 N/A あげられ N/A N/A 友達 N/A N/A 
+オリバー 渡した N/A ボール N/A N/A 穴 N/A ペネロペ N/A N/A 
+N/A 少女 あげた N/A 鏡 N/A N/A 鶏 N/A N/A 
+N/A 友達 送った N/A キリン N/A 本 N/A N/A 
+N/A 鳥 あげた イザベラ N/A ケーキ N/A N/A 
+N/A 新聞 N/A 送られ N/A クロエ N/A N/A 
+N/A 本 N/A あげられ N/A N/A 子供 N/A エマ N/A N/A 
+N/A 本 N/A 転送され N/A シャーロット N/A N/A 友達 N/A N/A 
+N/A 箱 N/A 渡され N/A N/A 患者 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 学生 N/A カーター N/A N/A 
+N/A チャンピオン あげた N/A 新聞 N/A N/A 友達 N/A N/A 穴 N/A N/A 本 N/A N/A 
+N/A 子供 あげた N/A 鶏 N/A N/A テーブル N/A 本 N/A N/A スピーカー N/A N/A 
+N/A 子供 与えた N/A 針 N/A リアム N/A N/A 
+N/A 友達 あげた N/A 少女 N/A ビスケット N/A N/A 
+N/A 患者 あげた N/A 子供 N/A 本 N/A N/A 
+N/A 子供 あげた オリビア N/A 本 N/A N/A 道路 N/A N/A 
+N/A 熊 あげた N/A 大統領 N/A おもちゃ N/A N/A 部屋 N/A N/A ステージ N/A N/A 
+スカーレット 与えた N/A メロン N/A N/A 客 N/A N/A 
+N/A 父 渡した N/A 皿 N/A オリバー N/A N/A 
+N/A 本 N/A 貸され N/A N/A 知事 N/A N/A 母 N/A N/A 
+N/A 植物 N/A あげられ N/A リアム N/A マイケル N/A N/A 
+リアム 持ってきた N/A 人形 N/A N/A 大統領 N/A N/A 
+N/A 時計 N/A 返され N/A イザベラ N/A N/A 子供 N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A シマウマ N/A N/A 箱 N/A ジョセフ N/A N/A 
+N/A 母 あげた N/A 友達 N/A 本 N/A N/A 
+N/A 母 あげた N/A 患者 N/A ペン N/A N/A 家 N/A N/A 
+N/A 新聞 N/A 返され N/A N/A 少女 N/A N/A 人 N/A N/A 
+N/A 裁判官 郵送した N/A 母 N/A N/A シリンダー N/A 新聞 N/A N/A 
+N/A 鳥 あげた N/A 本 N/A N/A 子供 N/A N/A 
+N/A 少年 渡した N/A ラジオ N/A オリバー N/A N/A 
+N/A 運転手 貸した N/A 子供 N/A 道具 N/A N/A 家 N/A N/A 
+オリビア 郵送した N/A 鍵 N/A N/A 子供 N/A N/A 
+オリバー あげた N/A 大統領 N/A 本 N/A N/A 車 N/A N/A 
+リアム 与えた N/A コーチ N/A 植物 N/A N/A 部屋 N/A N/A 
+N/A 子供 あげた N/A マネージャー N/A N/A 車 N/A 本 N/A N/A 
+N/A 靴 N/A あげられ N/A リアム N/A エマ N/A N/A 
+N/A 本 N/A あげられ N/A N/A 女王 N/A N/A ワニ N/A N/A 
+リアム あげた N/A 本 N/A N/A 母 N/A N/A シンク N/A N/A 
+N/A 学生 あげた N/A ワイン N/A N/A 友達 N/A N/A 
+N/A 本 N/A 貸され N/A N/A 父 N/A リアム N/A N/A 
+N/A 子供 渡した リアム N/A 葉 N/A N/A 車 N/A N/A 
+N/A 人形 N/A 持ってこられ N/A N/A 子供 N/A N/A 
+N/A 生徒 あげた N/A 友達 N/A 本 N/A N/A 
+リアム 渡した エヴァリー N/A 本 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 友達 N/A リアム N/A N/A 
+N/A 母 送った N/A 子供 N/A 本 N/A N/A 
+N/A 友達 そっと渡した N/A 子供 N/A バスケット N/A N/A 
+N/A 子供 転送した N/A ヒーロー N/A ブロック N/A N/A 
+リアム 提供した N/A ドーナツ N/A N/A 友達 N/A N/A 
+N/A 本 N/A 貸され N/A セオドア N/A N/A マネージャー N/A N/A ミキサー N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 子猫 N/A N/A 子供 N/A N/A 
+N/A 植物 N/A 持ってこられ N/A ノア N/A N/A 
+N/A カメ あげた N/A 本 N/A N/A 友達 N/A N/A ボート N/A N/A 
+N/A 王 提供した N/A ゲーム N/A アヴァ N/A N/A 
+N/A 子猫 持ってきた N/A スプーン N/A N/A 子供 N/A N/A クッキー N/A N/A 
+N/A 子供 持ってきた N/A 植物 N/A N/A 家 N/A ノア N/A N/A 
+N/A 子供 あげた N/A 鏡 N/A エマ N/A N/A 
+シャーロット 持ってきた N/A 新聞 N/A アリア N/A N/A 
+N/A 子供 あげた N/A クッキー N/A N/A 父 N/A N/A 
+N/A 少女 あげた オリビア N/A 種 N/A N/A 
+エリザベス あげた N/A 植物 N/A N/A 庭 N/A ルーカス N/A N/A 
+N/A 犬 送った N/A 子供 N/A N/A 家 N/A ゲーム N/A N/A ブロック N/A N/A 
+N/A 友達 郵送した N/A 鍵 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 提供され N/A オリビア N/A N/A 子供 N/A N/A 樽 N/A N/A 家 N/A N/A 
+N/A 本 N/A 与えられ N/A N/A 政治家 N/A N/A 
+N/A 祭司 送った N/A 子供 N/A N/A ステージ N/A 本 N/A N/A 
+N/A 科学者 あげた N/A 植物 N/A N/A 箱 N/A N/A 塔 N/A N/A 学生 N/A N/A 
+N/A 子供 提供した N/A ゲーム N/A ウィリアム N/A N/A 
+N/A 学生 持ってきた N/A 本 N/A エズラ N/A N/A 
+アメリア 持ってきた N/A 友達 N/A 本 N/A N/A 
+ノア 持ってきた N/A サンドイッチ N/A N/A カップ N/A N/A 子供 N/A N/A 
+N/A 父 持ってきた N/A 少女 N/A 豆 N/A N/A 自転車 N/A N/A 
+N/A 犬 あげた N/A スプーン N/A オリバー N/A N/A 
+N/A 客 渡した オリビア N/A バット N/A N/A 
+N/A カップ N/A 送られ N/A N/A 友達 N/A ウィリアム N/A N/A 
+N/A 子供 提供した N/A 飲み物 N/A N/A 道路 N/A N/A 車 N/A オリビア N/A N/A 
+N/A 本 N/A 持ってこられ N/A ベンジャミン N/A N/A マネージャー N/A N/A 
+N/A 友達 あげた N/A 本 N/A N/A ステージ N/A N/A 家 N/A N/A 子供 N/A N/A 
+リアム あげた N/A 学生 N/A 本 N/A N/A 木 N/A N/A 
+N/A 子供 転送した N/A ブロック N/A ノア N/A N/A 
+ノア 渡した N/A 本 N/A N/A 友達 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 子供 N/A N/A リス N/A N/A 家 N/A N/A ベッド N/A N/A 
+N/A 子供 返した N/A 花 N/A N/A 患者 N/A N/A 
+N/A ジャケット N/A 渡され N/A N/A 友達 N/A N/A 子供 N/A N/A 
+N/A 友達 提供した N/A 使用人 N/A 財布 N/A N/A 
+N/A 子供 渡した N/A 皿 N/A N/A 友達 N/A N/A テーブル N/A N/A 
+セバスチャン あげた メイソン N/A 新聞 N/A N/A 
+N/A 本 N/A 与えられ N/A ルーク N/A N/A 
+N/A 本 N/A あげられ N/A N/A 子供 N/A ジェームズ N/A N/A 
+N/A 子供 送った オリバー N/A 花 N/A N/A 家 N/A N/A 
+N/A 学生 あげた N/A 本 N/A ジョサイア N/A N/A 
+N/A 患者 持ってきた N/A ボール N/A N/A 生き物 N/A N/A キャンバス N/A N/A ソファ N/A N/A 
+N/A 本 N/A 渡され N/A N/A 子供 N/A N/A 学生 N/A N/A 棒 N/A N/A 
+N/A 父 約束した N/A 大統領 N/A 花 N/A N/A 
+N/A 母 持ってきた N/A 犬 N/A 人形 N/A N/A 
+N/A 少女 あげた イザベラ N/A 種 N/A N/A 
+リアム あげた N/A ヨーグルト N/A N/A 道路 N/A N/A 子供 N/A N/A 
+N/A 植物 N/A あげられ N/A N/A 農家 N/A N/A 子供 N/A N/A 
+N/A 母 持ってきた オリビア N/A 鏡 N/A N/A 
+N/A ペン N/A あげられ N/A N/A 子供 N/A N/A 庭 N/A N/A 
+N/A ウサギ 提供した N/A 子供 N/A N/A 片手鍋 N/A ワイン N/A N/A 本 N/A N/A 
+N/A 監督 与えた N/A ケーキ N/A N/A ステージ N/A N/A 鶏 N/A N/A 
+ノラ 与えた N/A 本 N/A N/A 大統領 N/A N/A 書店 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 馬 N/A N/A 道路 N/A N/A 子供 N/A N/A 
+N/A 子供 持ってきた N/A 研究者 N/A 本 N/A N/A 
+ソフィア あげた N/A 本 N/A N/A 訪問者 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 母 N/A ルーカス N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 友達 N/A N/A 家 N/A N/A 
+リアム 提供した N/A 子供 N/A 飲み物 N/A N/A 
+エマ あげた N/A 子供 N/A 植物 N/A N/A 管 N/A N/A 
+N/A オオカミ 提供した N/A ゲーム N/A N/A 部屋 N/A ルーカス N/A N/A 
+N/A 鉛筆 N/A 貸され N/A N/A 少女 N/A N/A 
+N/A 友達 送った オリビア N/A ラジオ N/A N/A 
+N/A ゲーム N/A 渡され N/A N/A 母 N/A N/A 熊 N/A N/A 
+N/A 家主 あげた N/A 人形 N/A エマ N/A N/A 
+N/A 子供 渡した N/A 人形 N/A N/A 本 N/A N/A 馬 N/A N/A 
+N/A 子供 貸した N/A 囚人 N/A ペン N/A N/A クジラ N/A N/A 
+N/A 少年 渡した ノア N/A ゲーム N/A N/A 
+N/A 友達 持ってきた N/A 子供 N/A 爪 N/A N/A 道路 N/A N/A 
+N/A 植物 N/A あげられ N/A N/A 友達 N/A N/A 
+N/A 母 あげた N/A サンドイッチ N/A N/A 子供 N/A N/A 乗り物 N/A N/A 本 N/A N/A 
+N/A 本 N/A あげられ N/A リアム N/A ジョシュア N/A N/A 
+サミュエル 貸した N/A 本 N/A N/A バッグ N/A アレクサンダー N/A N/A 
+N/A 教師 送った N/A 子供 N/A 葉 N/A N/A 絵 N/A N/A テーブル N/A N/A 
+N/A 父 あげた N/A トウモロコシ N/A N/A 子供 N/A N/A 
+N/A 訪問者 あげた N/A サンドイッチ N/A N/A 本 N/A リアム N/A N/A 
+N/A 母 売った N/A 帽子 N/A エイブリー N/A N/A 
+N/A 裁判官 売った N/A ゲーム N/A N/A 船長 N/A N/A 
+オリビア あげた N/A 本 N/A N/A 友達 N/A N/A 
+N/A 学生 渡した N/A 本 N/A N/A 少女 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 子供 N/A エマ N/A N/A 
+N/A 患者 送った N/A ボトル N/A N/A 皿 N/A N/A 赤ちゃん N/A N/A 
+N/A 怪物 与えた N/A ゲスト N/A 鍵 N/A N/A 
+ノア 提供した N/A リス N/A ビスケット N/A N/A 
+オリビア あげた N/A 風船 N/A N/A 客 N/A N/A 
+N/A 少女 持ってきた ジャクソン N/A 本 N/A N/A 
+N/A 子供 持ってきた N/A 本 N/A メイソン N/A N/A 
+N/A ゲーム N/A 提供され N/A N/A 子供 N/A ジョセフ N/A N/A 
+N/A 少年 売った N/A 豆 N/A オリビア N/A N/A 
+N/A 飲み物 N/A あげられ N/A N/A 友達 N/A N/A 
+N/A 本 N/A あげられ N/A N/A ホスト N/A N/A 
+N/A 子供 返した アヴァ N/A 武器 N/A N/A 
+オードリー 持ってきた N/A 風船 N/A N/A 子供 N/A N/A 箱 N/A N/A 庭 N/A N/A 
+N/A 父 あげた N/A 植物 N/A N/A 知事 N/A N/A 道路 N/A N/A 王座 N/A N/A 
+N/A 本 N/A 貸され N/A N/A 訪問者 N/A N/A 母 N/A N/A 
+ウィリアム あげた N/A 種 N/A ノラ N/A N/A 
+N/A 母 郵送した N/A 子供 N/A N/A 本 N/A 鍵 N/A N/A 
+N/A 本 N/A そっと渡され N/A オリビア N/A N/A 
+N/A チャンピオン あげた N/A 爪 N/A N/A 子供 N/A N/A 
+N/A チャンピオン 持ってきた N/A 祭司 N/A ピザ N/A N/A 
+N/A 鳥 売った N/A 椅子 N/A N/A 母 N/A N/A 
+N/A 友達 提供した リアム N/A バスケット N/A N/A 
+リアム あげた N/A 爪 N/A N/A 子供 N/A N/A 
+N/A 子供 提供した N/A 分子 N/A N/A 箱 N/A リアム N/A N/A 
+リアム 送った N/A 教師 N/A N/A 本 N/A バスケット N/A N/A 
+N/A 植物 N/A あげられ N/A N/A 知事 N/A N/A 
+ノア 持ってきた N/A 母 N/A N/A 家 N/A 葉 N/A N/A 
+N/A 本 N/A 約束され N/A オリビア N/A リアム N/A N/A 
+N/A 子供 提供した N/A 友達 N/A バスケット N/A N/A 
+N/A ゲーム N/A そっと渡され N/A ソフィア N/A リアム N/A N/A 
+N/A ロバ 約束した アヴァ N/A 花 N/A N/A 
+N/A 母 持ってきた N/A 皿 N/A ソフィア N/A N/A 
+N/A 王 渡した N/A 患者 N/A N/A 機械 N/A ゲーム N/A N/A 
+N/A 子供 送った N/A 父 N/A 本 N/A N/A 
+N/A 母 送った ノア N/A 葉 N/A N/A 
+N/A 友達 提供した N/A 爪 N/A N/A 家 N/A N/A ネズミ N/A N/A 
+N/A 猿 あげた N/A 医者 N/A 帽子 N/A N/A 
+ヴィクトリア あげた N/A 豆 N/A N/A 道路 N/A N/A 少女 N/A N/A 
+N/A ゲーム N/A 送られ N/A N/A 子供 N/A N/A 
+エマ 与えた N/A 豚 N/A N/A 車 N/A 植物 N/A N/A 
+N/A 子供 あげた N/A 友達 N/A 指輪 N/A N/A 箱 N/A N/A 
+ジェームズ 提供した N/A 結晶 N/A N/A 家 N/A エマ N/A N/A 
+N/A 王 持ってきた N/A 友達 N/A 新聞 N/A N/A 
+N/A 子供 持ってきた N/A 友達 N/A N/A 家 N/A ピザ N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 弁護士 N/A N/A 
+オリバー 返した N/A ロバ N/A 指輪 N/A N/A 家 N/A N/A 
+N/A 子供 あげた N/A ペン N/A リアム N/A N/A 
+N/A 患者 あげた N/A 本 N/A アレクサンダー N/A N/A 
+N/A ヒーロー あげた N/A 本 N/A N/A 馬 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 使用人 N/A ルーカス N/A N/A 
+N/A 子供 提供した N/A ゲーム N/A N/A 家 N/A N/A 市民 N/A N/A 
+N/A 少年 持ってきた N/A ロバ N/A 本 N/A N/A 道路 N/A N/A 
+N/A 本 N/A 持ってこられ N/A リアム N/A オリビア N/A N/A 
+N/A 友達 提供した N/A 子供 N/A 爪 N/A N/A 
+ウィリアム 提供した ノア N/A 分子 N/A N/A 
+N/A 子供 あげた N/A 鍵 N/A N/A 友達 N/A N/A 
+リアム 送った N/A 父 N/A 本 N/A N/A 
+N/A 裁判官 渡した N/A 少年 N/A 本 N/A N/A 家 N/A N/A 
+N/A 少女 あげた N/A 患者 N/A 皿 N/A N/A シリンダー N/A N/A 
+N/A 箱 N/A 渡され N/A ワイアット N/A N/A 友達 N/A N/A 家 N/A N/A 
+デイビッド 持ってきた N/A 豆 N/A N/A 子供 N/A N/A 
+N/A 子供 あげた N/A クッキー N/A N/A 友達 N/A N/A 
+ウィリアム 提供した N/A 皿 N/A N/A 列車 N/A オリビア N/A N/A 
+N/A 本 N/A あげられ N/A N/A 父 N/A N/A 子供 N/A N/A 
+N/A 本 N/A あげられ N/A エイブリー N/A N/A 友達 N/A N/A 家 N/A N/A 
+N/A 子供 送った N/A 子供 N/A 植物 N/A N/A 
+N/A 裁判官 貸した リアム N/A 本 N/A N/A 
+N/A 葉 N/A あげられ N/A N/A ガチョウ N/A N/A 
+N/A 弁護士 あげた N/A 父 N/A 結晶 N/A N/A 
+オリビア 持ってきた N/A バナナ N/A N/A 船長 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 大統領 N/A N/A 家 N/A N/A 
+N/A 牛 電報した N/A ペンギン N/A 本 N/A N/A 犬小屋 N/A N/A 
+リアム 売った N/A 女王 N/A 指輪 N/A N/A 
+N/A 子供 提供した N/A 飲み物 N/A N/A 部屋 N/A N/A バッグ N/A リアム N/A N/A 
+N/A 子供 郵送した N/A 鍵 N/A N/A 友達 N/A N/A 
+N/A 家主 持ってきた エマ N/A 植物 N/A N/A ベッド N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 教授 N/A N/A コンピューター N/A N/A ボート N/A N/A コーチ N/A N/A 
+オードリー 貸した N/A 人形 N/A N/A 車 N/A リアム N/A N/A 
+ノア 持ってきた N/A 飲み物 N/A N/A 穴 N/A N/A 友達 N/A N/A 
+ノア 貸した N/A 鍵 N/A N/A 紙 N/A N/A 客 N/A N/A 
+N/A マネージャー 持ってきた リアム N/A 本 N/A N/A 
+N/A 少女 あげた リアム N/A 本 N/A N/A 戸棚 N/A N/A 
+N/A ラジオ N/A 送られ N/A N/A 子供 N/A N/A 道路 N/A N/A 
+N/A 本 N/A 返され N/A ルーク N/A N/A 友達 N/A N/A カップ N/A N/A 
+ソフィア あげた N/A 友達 N/A 靴 N/A N/A 
+オリバー あげた N/A 患者 N/A 結晶 N/A N/A 機械 N/A N/A 
+N/A 教授 あげた N/A 本 N/A エヴリン N/A N/A 
+N/A 本 N/A 持ってこられ N/A N/A 子供 N/A N/A スピーカー N/A N/A 
+N/A 友達 あげた N/A 靴 N/A N/A 庭 N/A N/A 城 N/A N/A 王子 N/A N/A 
+N/A 友達 貸した N/A 靴 N/A N/A 子供 N/A N/A 家 N/A N/A 
+N/A 子供 あげた アリア N/A 本 N/A N/A 
+イーサン 提供した N/A メロン N/A リアム N/A N/A 
+ジョン そっと渡した N/A 本 N/A N/A 教師 N/A N/A 
+メイソン 持ってきた N/A 母 N/A ピザ N/A N/A ベッド N/A N/A 
+ジョン 貸した N/A 子供 N/A N/A 家 N/A バッグ N/A N/A 
+シャーロット あげた ルナ N/A 本 N/A N/A 車 N/A N/A 
+ソフィア あげた N/A 子供 N/A N/A アヒル N/A 指輪 N/A N/A 
+N/A 買い手 あげた N/A 植物 N/A N/A 宮殿 N/A リアム N/A N/A 
+N/A 家主 返した リアム N/A 箱 N/A N/A 
+N/A 友達 そっと渡した N/A 赤ちゃん N/A N/A 庭 N/A 本 N/A N/A 列車 N/A N/A 
+N/A 学生 あげた N/A 本 N/A N/A 熊 N/A N/A 車 N/A N/A 
+リアム 渡した N/A チョーク N/A N/A スピーカー N/A N/A 母 N/A N/A 家 N/A N/A 
+N/A マネージャー 返した オリバー N/A 本 N/A N/A カップ N/A N/A 
+N/A 父 あげた リアム N/A 植物 N/A N/A 
+N/A 子供 あげた N/A 靴 N/A N/A 少年 N/A N/A 紙 N/A N/A 
+イザベラ 送った N/A 椅子 N/A N/A 研究者 N/A N/A 家 N/A N/A 
+ジェームズ 約束した N/A 花 N/A N/A 魚 N/A N/A 
+N/A 少女 提供した オーウェン N/A ハンマー N/A N/A 
+リアム あげた N/A 患者 N/A 本 N/A N/A コンピューター N/A N/A 
+N/A ゲーム N/A 売られ N/A N/A 子供 N/A オリビア N/A N/A 
+N/A 母 約束した N/A 科学者 N/A 花 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 知事 N/A N/A レンガ N/A ノア N/A N/A 
+N/A 本 N/A あげられ N/A ベンジャミン N/A N/A 
+N/A 友達 提供した N/A ゲーム N/A N/A 子供 N/A N/A 仲買人 N/A N/A 
+N/A 豆 N/A あげられ N/A N/A 客 N/A N/A 家 N/A N/A 市民 N/A N/A 
+N/A 子供 郵送した N/A 鶏 N/A 鍵 N/A N/A 
+N/A 友達 転送した ベンジャミン N/A ブロック N/A N/A 
+N/A 子猫 渡した N/A 本 N/A リアム N/A N/A 
+N/A 子供 提供した N/A オオカミ N/A 果物 N/A N/A 
+N/A 本 N/A 約束され N/A N/A 少女 N/A N/A バット N/A N/A 
+N/A ゲーム N/A 提供され N/A N/A 兵士 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 監督 N/A N/A 熊 N/A N/A 家 N/A N/A 
+N/A 帽子 N/A 持ってこられ N/A N/A 子供 N/A N/A 兵士 N/A N/A クローゼット N/A N/A 
+N/A 女王 あげた N/A スプーン N/A N/A プロデューサー N/A N/A 道路 N/A N/A 紙 N/A N/A 
+N/A 猫 あげた N/A 友達 N/A 本 N/A N/A 
+N/A 子供 送った N/A ヒーロー N/A ボール N/A N/A 皿 N/A N/A 
+N/A 友達 約束した N/A 母 N/A 花 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 友達 N/A エリジャ N/A N/A 
+リアム 提供した N/A 観光客 N/A N/A 部屋 N/A ビスケット N/A N/A 
+N/A 父 あげた N/A 友達 N/A 爪 N/A N/A 
+リアム そっと渡した N/A 本 N/A N/A 子供 N/A N/A 
+N/A ホスト 送った N/A 花 N/A N/A 子供 N/A N/A 
+N/A 子供 返した アヴァ N/A 本 N/A N/A 
+リアム あげた N/A 少女 N/A ピザ N/A N/A 箱 N/A N/A 道路 N/A N/A 
+イザベラ 持ってきた N/A 子供 N/A 本 N/A N/A 
+N/A 船長 あげた N/A 植物 N/A ノア N/A N/A 
+リアム 貸した N/A 母 N/A ジャケット N/A N/A 
+ジョセフ あげた N/A ケーキ N/A N/A 本 N/A リアム N/A N/A 
+N/A 船員 売った N/A 教授 N/A 果物 N/A N/A 
+オリビア あげた N/A 缶 N/A N/A 家 N/A N/A 友達 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 生き物 N/A N/A 
+N/A 子猫 あげた N/A 本 N/A クリストファー N/A N/A 
+N/A 少年 送った N/A 患者 N/A 本 N/A N/A 
+N/A 船長 持ってきた N/A 蜂 N/A N/A 三脚 N/A 新聞 N/A N/A ポット N/A N/A 
+N/A 本 N/A あげられ N/A N/A 子供 N/A ウィリアム N/A N/A 
+N/A 母 持ってきた N/A 本 N/A N/A 友達 N/A N/A 
+N/A 友達 あげた N/A 囚人 N/A サンドイッチ N/A N/A 部屋 N/A N/A 木 N/A N/A 
+N/A 友達 あげた N/A 靴 N/A N/A 王 N/A N/A 
+N/A 本 N/A 返され N/A N/A 政治家 N/A N/A 
+N/A 友達 売った N/A バッグ N/A オリビア N/A N/A 
+N/A 母 あげた N/A 人形 N/A N/A 学生 N/A N/A 
+N/A 友達 あげた アヴァ N/A ケーキ N/A N/A 
+N/A ワニ あげた N/A 少年 N/A メロン N/A N/A 
+N/A 友達 あげた リアム N/A 本 N/A N/A 
+N/A 大統領 あげた N/A バナナ N/A N/A 結晶 N/A N/A 子供 N/A N/A 
+N/A 植物 N/A あげられ N/A N/A チャンピオン N/A N/A 本 N/A N/A 少女 N/A N/A 
+N/A 母 返した N/A 子供 N/A 本 N/A N/A 
+N/A マネージャー 返した N/A 豚 N/A スプーン N/A N/A 剣 N/A N/A 
+N/A 本 N/A あげられ N/A オリビア N/A カミラ N/A N/A 
+アメリア あげた N/A 子供 N/A 新聞 N/A N/A 
+N/A 本 N/A 返され N/A N/A 友達 N/A N/A 子供 N/A N/A 家 N/A N/A 
+N/A 本 N/A あげられ N/A N/A ガチョウ N/A N/A 
+デイビッド 売った N/A ゲーム N/A N/A 子供 N/A N/A 
+N/A マネージャー あげた N/A 植物 N/A N/A 子供 N/A N/A 家 N/A N/A 
+N/A 友達 あげた N/A 弁護士 N/A N/A 家 N/A 植物 N/A N/A 
+N/A ゲーム N/A 提供され N/A N/A 子供 N/A リアム N/A N/A 
+N/A 本 N/A 郵送され N/A N/A 母 N/A N/A 
+N/A 本 N/A 与えられ N/A N/A 母 N/A N/A 子供 N/A N/A 
+N/A 父 送った N/A 患者 N/A 本 N/A N/A 
+リアム 郵送した N/A 新聞 N/A N/A 作家 N/A N/A 
+N/A 子供 あげた N/A 熊 N/A N/A 猫 N/A N/A テーブル N/A 本 N/A N/A 
+N/A 本 N/A 約束され N/A N/A 詩人 N/A N/A 家 N/A N/A 子供 N/A N/A 
+アヴァ あげた N/A 母 N/A 飲み物 N/A N/A 
+N/A 子供 転送した N/A ブロック N/A N/A 木 N/A N/A 母 N/A N/A 
+N/A 本 N/A 与えられ N/A N/A 友達 N/A N/A 家 N/A N/A 大統領 N/A N/A テーブル N/A N/A 
+リアム 提供した N/A 子供 N/A N/A テーブル N/A N/A 家 N/A 風船 N/A N/A 
+N/A ヒーロー 渡した N/A 本 N/A N/A 枝 N/A N/A 紙 N/A ミラ N/A N/A 
+N/A 教授 あげた N/A 本 N/A N/A 患者 N/A N/A 
+N/A 子供 あげた ジャクソン N/A 針 N/A N/A 
+N/A 子供 そっと渡した ルーク N/A ブロック N/A N/A ベッド N/A N/A 彫刻 N/A N/A 
+N/A 指輪 N/A 持ってこられ N/A ノア N/A N/A 学生 N/A N/A 
+N/A ゲーム N/A 売られ N/A ソフィア N/A N/A 
+N/A 子供 あげた アヴァ N/A ピザ N/A N/A 容器 N/A N/A 
+N/A 大統領 持ってきた N/A 学生 N/A 本 N/A N/A 
+N/A プレゼント N/A あげられ N/A N/A 子供 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 少女 N/A N/A 友達 N/A N/A 
+N/A 友達 持ってきた N/A トウモロコシ N/A リアム N/A N/A 
+N/A 友達 提供した N/A 種 N/A N/A ステージ N/A N/A 少年 N/A N/A 
+オリビア 返した イザベラ N/A 本 N/A N/A ボード N/A N/A 
+アッシャー 送った N/A 母 N/A N/A 本 N/A ゲーム N/A N/A マンション N/A N/A 
+N/A 鹿 与えた N/A 少女 N/A 葉 N/A N/A 
+N/A 本 N/A あげられ N/A オリビア N/A ジェイコブ N/A N/A 
+N/A ライオン 貸した N/A 本 N/A N/A 家 N/A N/A 子供 N/A N/A 
+リアム あげた N/A 植物 N/A N/A 母 N/A N/A 部屋 N/A N/A 
+N/A 友達 送った N/A 少女 N/A 本 N/A N/A 
+リアム 提供した N/A 爪 N/A N/A おもちゃ N/A N/A 車 N/A N/A 子供 N/A N/A 
+N/A 子供 返した N/A 母 N/A 旗 N/A N/A 
+N/A 鍵 N/A 持ってこられ N/A N/A アヒル N/A N/A 
+N/A 子供 貸した N/A 友達 N/A N/A 家 N/A ゲーム N/A N/A 
+リアム 返した N/A 指輪 N/A N/A 車 N/A オリビア N/A N/A 
+N/A 本 N/A 提供され N/A N/A 子供 N/A ノア N/A N/A 
+N/A 少女 渡した N/A 本 N/A N/A 王 N/A N/A 
+N/A バッグ N/A 貸され N/A イザベラ N/A N/A 
+N/A 父 返した N/A 少女 N/A N/A 部屋 N/A 鉛筆 N/A N/A テーブル N/A N/A 
+N/A 父 返した N/A 箱 N/A N/A 倉庫 N/A N/A 船長 N/A N/A 
+N/A 本 N/A 貸され N/A オリビア N/A N/A 
+N/A 本 N/A 売られ N/A エイブリー N/A リアム N/A N/A 
+N/A 子供 あげた N/A 母 N/A 缶 N/A N/A 
+N/A 爪 N/A あげられ N/A N/A 子供 N/A N/A 
+N/A 子供 あげた オリビア N/A 本 N/A N/A 
+N/A 少女 あげた N/A ゲスト N/A N/A 道路 N/A クッキー N/A N/A 
+N/A 植物 N/A 持ってこられ N/A エマ N/A N/A 子供 N/A N/A 
+オリビア あげた N/A 監督 N/A 貝殻 N/A N/A 
+N/A 本 N/A 売られ N/A N/A 船員 N/A アンソニー N/A N/A 
+N/A 子供 与えた N/A 本 N/A N/A 母 N/A N/A 
+N/A ポニー 返した エヴリン N/A 本 N/A N/A 
+N/A 子供 送った N/A 母 N/A 本 N/A N/A 
+エイデン 約束した N/A 花 N/A N/A ボート N/A N/A 家 N/A リアム N/A N/A 
+N/A 患者 あげた エマ N/A 飲み物 N/A N/A 家 N/A N/A 
+N/A 長 あげた N/A 鏡 N/A N/A 子供 N/A N/A 
+N/A 訪問者 与えた N/A 指輪 N/A N/A 道路 N/A N/A 友達 N/A N/A ベッド N/A N/A 
+N/A 子供 あげた N/A 本 N/A スカーレット N/A N/A 
+N/A ガチョウ あげた N/A 鏡 N/A N/A 子供 N/A N/A 家 N/A N/A 
+N/A ヒーロー 貸した N/A 時計 N/A N/A 紙 N/A N/A 母 N/A N/A 
+N/A 子供 与えた N/A 王 N/A ボール N/A N/A 
+N/A 本 N/A 送られ N/A N/A 家主 N/A アレクサンダー N/A N/A 
+N/A ハンマー N/A そっと渡され N/A ミラ N/A N/A 
+N/A 父 売った N/A 子供 N/A バット N/A N/A 家 N/A N/A 
+N/A 子供 持ってきた N/A 本 N/A N/A ボウル N/A ジェームズ N/A N/A 
+N/A 少年 送った N/A スカーフ N/A N/A 子供 N/A N/A 
+N/A ゲスト あげた N/A ピザ N/A N/A 患者 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 母 N/A N/A 家 N/A N/A 
+N/A 犬 そっと渡した N/A カップ N/A N/A 子供 N/A N/A 
+N/A テナント あげた N/A 少女 N/A 本 N/A N/A 
+オリビア 転送した N/A ブロック N/A N/A 友達 N/A N/A 
+N/A 子供 貸した N/A 本 N/A N/A 父 N/A N/A 
+オーロラ あげた N/A 本 N/A N/A 子供 N/A N/A 
+N/A マネージャー 転送した N/A ブロック N/A N/A シマウマ N/A N/A 
+N/A 子供 あげた N/A 船長 N/A 本 N/A N/A 機械 N/A N/A 
+リンカーン 転送した N/A 子供 N/A ブロック N/A N/A 
+N/A 訪問者 あげた N/A 皿 N/A N/A キリン N/A N/A 
+N/A 本 N/A 渡され N/A ノア N/A N/A 
+N/A 植物 N/A 持ってこられ N/A N/A 子供 N/A N/A 学生 N/A N/A 
+エマ 提供した N/A 肝臓 N/A N/A 家 N/A N/A 子供 N/A N/A 
+N/A 公爵 提供した N/A 子供 N/A N/A 家 N/A N/A 水たまり N/A 新聞 N/A N/A 
+N/A 使用人 売った N/A 本 N/A N/A 子供 N/A N/A 
+N/A 本 N/A あげられ N/A オリバー N/A N/A 子供 N/A N/A 
+N/A 本 N/A 渡され N/A N/A 子供 N/A N/A 友達 N/A N/A 
+N/A 子供 貸した N/A チャンピオン N/A 武器 N/A N/A 
+N/A 弁護士 あげた N/A 子供 N/A 本 N/A N/A 
+N/A 子供 郵送した オリビア N/A 鍵 N/A N/A 
+N/A 子供 あげた N/A 結晶 N/A アッシャー N/A N/A 
+N/A 母 貸した N/A ギター N/A リアム N/A N/A 
+N/A 友達 あげた N/A 本 N/A オリビア N/A N/A 
+N/A 友達 送った N/A 椅子 N/A ステラ N/A N/A 
+N/A 教師 提供した リアム N/A ハンバーガー N/A N/A 
+N/A 本 N/A あげられ N/A N/A 王 N/A N/A 
+N/A 友達 売った N/A 本 N/A N/A 家主 N/A N/A 
+エイブリー 送った N/A 箱 N/A N/A 道路 N/A N/A 子供 N/A N/A 本 N/A N/A 
+N/A 父 あげた マシュー N/A 靴 N/A N/A 小さいベッド N/A N/A 
+N/A 母 郵送した オリビア N/A 新聞 N/A N/A 本 N/A N/A 
+N/A 本 N/A 送られ N/A N/A 子供 N/A N/A 
+N/A 友達 渡した N/A 本 N/A N/A 母 N/A N/A 
+N/A 教師 与えた ガブリエル N/A 人形 N/A N/A 本 N/A N/A 
+N/A 運転手 提供した リアム N/A 鍵 N/A N/A 
+ノア 郵送した N/A 鍵 N/A オリビア N/A N/A 
+アヴァ 郵送した N/A 鍵 N/A N/A 母 N/A N/A 
+N/A ホスト 持ってきた N/A 子供 N/A 結晶 N/A N/A 家 N/A N/A 
+オリビア 提供した N/A 鶏 N/A パンケーキ N/A N/A 
+N/A 本 N/A 約束され N/A N/A 母 N/A N/A 
+N/A ディーラー 持ってきた N/A ジャーナリスト N/A ケーキ N/A N/A 
+ルーシー 提供した N/A 少女 N/A N/A 庭 N/A ゲーム N/A N/A 
+ハンナ あげた N/A ワイン N/A N/A 子供 N/A N/A 
+N/A 子供 あげた N/A プレゼント N/A N/A 大統領 N/A N/A 
+N/A 本 N/A 郵送され N/A N/A テナント N/A N/A 少年 N/A N/A 家 N/A N/A 
+アイザック 提供した N/A 友達 N/A N/A クローゼット N/A ペン N/A N/A 
+N/A 王子 あげた N/A 本 N/A N/A 王 N/A N/A 
+N/A 友達 持ってきた オリビア N/A 靴 N/A N/A 紙 N/A N/A 
+N/A 飲み物 N/A あげられ N/A N/A 母 N/A N/A 道路 N/A N/A 囚人 N/A N/A 
+N/A 医者 渡した N/A 本 N/A N/A 子供 N/A N/A 
+N/A 本 N/A あげられ N/A セオドア N/A N/A 
+リンカーン あげた N/A 本 N/A N/A 学生 N/A N/A 
+N/A 警備員 あげた N/A 本 N/A N/A 引き出し N/A N/A 鳥 N/A N/A 家 N/A N/A 
+N/A 本 N/A あげられ N/A エリジャ N/A N/A 友達 N/A N/A 
+ジャクソン あげた N/A 本 N/A アヴァ N/A N/A 
+N/A 本 N/A 提供され N/A N/A 友達 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 公爵 N/A N/A 犬 N/A N/A 
+N/A 犬 返した N/A 指輪 N/A N/A 母 N/A N/A 
+N/A 鳥 与えた N/A バナナ N/A N/A 子供 N/A N/A 
+N/A 少年 渡した N/A 子供 N/A 鍵 N/A N/A 
+N/A 本 N/A あげられ N/A リリアン N/A N/A 
+N/A プロデューサー あげた リアム N/A 本 N/A N/A 
+N/A 本 N/A 郵送され N/A オリバー N/A N/A 
+N/A 子供 送った N/A 針 N/A N/A 生垣 N/A N/A 学生 N/A N/A 
+N/A コーチ 提供した N/A 友達 N/A N/A 箱 N/A N/A コンピューター N/A 財布 N/A N/A 
+N/A 警備員 あげた N/A 本 N/A N/A 樽 N/A N/A 市民 N/A N/A 
+N/A 子供 送った リアム N/A ブラシ N/A N/A 本 N/A N/A 列車 N/A N/A 
+N/A ボール N/A 渡され N/A N/A 医者 N/A N/A 
+イーサン あげた リアム N/A 本 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 子供 N/A N/A 家 N/A N/A コンピューター N/A N/A 
+N/A 本 N/A 与えられ N/A ノラ N/A N/A 
+N/A 本 N/A 売られ N/A リアム N/A N/A 子供 N/A N/A 
+N/A 本 N/A 電報され N/A N/A 王女 N/A N/A 
+N/A 市民 あげた N/A 子供 N/A N/A 紙 N/A 本 N/A N/A 
+N/A 子供 提供した アンソニー N/A ハンマー N/A N/A カップ N/A N/A 家 N/A N/A 
+N/A ディーラー あげた N/A 本 N/A N/A 怪物 N/A N/A 
+N/A 子供 持ってきた N/A おもちゃ N/A N/A 友達 N/A N/A 
+マディソン あげた N/A 子供 N/A 植物 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 監督 N/A N/A 
+ローガン 貸した N/A 鉛筆 N/A N/A 子供 N/A N/A 
+リリー あげた N/A 鍵 N/A N/A 客 N/A N/A 家 N/A N/A 
+N/A 本 N/A 貸され N/A ノア N/A N/A 友達 N/A N/A 
+N/A ラジオ N/A 渡され N/A N/A 囚人 N/A N/A 友達 N/A N/A 
+N/A 箱 N/A 送られ N/A N/A 子供 N/A N/A 
+N/A 王 渡した リアム N/A 椅子 N/A N/A 
+N/A 子供 転送した N/A ブロック N/A N/A 少女 N/A N/A 
+N/A 本 N/A 提供され N/A N/A 少女 N/A ゾーイ N/A N/A 
+N/A 大統領 あげた N/A 患者 N/A 本 N/A N/A 
+N/A 医者 送った ソフィア N/A ゲーム N/A N/A 
+N/A 本 N/A あげられ N/A アレクサンダー N/A N/A 
+N/A ウサギ あげた N/A 本 N/A リアム N/A N/A 
+N/A 本 N/A あげられ N/A N/A 友達 N/A N/A 子供 N/A N/A コンピューター N/A N/A 
+N/A 結晶 N/A 提供され N/A リアム N/A N/A テナント N/A N/A 
+N/A 本 N/A あげられ N/A N/A 科学者 N/A N/A 家 N/A N/A 
+オリバー 約束した リアム N/A 花 N/A N/A チェス盤 N/A N/A シーツ N/A N/A 
+N/A 子供 あげた N/A ボール N/A N/A ホスト N/A N/A 
+N/A 子供 あげた N/A 結晶 N/A トーマス N/A N/A 
+オリビア あげた リアム N/A サンドイッチ N/A N/A 
+N/A 本 N/A あげられ N/A リアム N/A N/A 子供 N/A N/A 
+N/A 魚 持ってきた N/A 植物 N/A N/A ワニ N/A N/A キーボード N/A N/A 
+N/A 本 N/A 提供され N/A N/A 船長 N/A N/A 部屋 N/A N/A 友達 N/A N/A 
+イザベラ 持ってきた N/A 靴 N/A N/A 家主 N/A N/A 
+N/A ゲーム N/A 渡され N/A N/A コーチ N/A N/A ボート N/A N/A 犬 N/A N/A 
+N/A 患者 返した N/A 子供 N/A 鉛筆 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 患者 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 郵送され N/A イザベラ N/A N/A 
+N/A 教師 あげた ノア N/A ビスケット N/A N/A 
+N/A 子供 返した N/A 友達 N/A 針 N/A N/A 
+N/A 本 N/A 郵送され N/A N/A 蜂 N/A N/A 
+オリビア 貸した N/A ギター N/A N/A 鹿 N/A N/A 
+オリビア そっと渡した N/A 指輪 N/A N/A 子供 N/A N/A トラック N/A N/A 
+N/A 警備員 あげた リアム N/A 本 N/A N/A 
+N/A 教師 あげた N/A 本 N/A N/A 庭 N/A N/A 子供 N/A N/A 
+N/A 子供 渡した N/A 瓶 N/A N/A 家 N/A N/A 友達 N/A N/A 
+N/A 監督 電報した リアム N/A 本 N/A N/A 家 N/A N/A 穴 N/A N/A 
+N/A アヒル 持ってきた リアム N/A 本 N/A N/A 
+N/A 患者 貸した N/A 子供 N/A 鍵 N/A N/A 家 N/A N/A 
+N/A 本 N/A あげられ N/A N/A 訪問者 N/A N/A 
+N/A 子供 あげた N/A 帽子 N/A N/A 猫 N/A N/A 本 N/A N/A 部屋 N/A N/A 
+リアム あげた N/A サンドイッチ N/A N/A 大統領 N/A N/A 
+N/A 友達 提供した N/A 結晶 N/A N/A 紙 N/A リアム N/A N/A 
+N/A 本 N/A 送られ N/A N/A 子供 N/A N/A 消費者 N/A N/A カップ N/A N/A 
+N/A 少女 持ってきた N/A 買い手 N/A 本 N/A N/A 家 N/A N/A 
+N/A 子供 提供した N/A ゲーム N/A セオドア N/A N/A 
+N/A 生徒 あげた N/A 子供 N/A 本 N/A N/A 
+N/A 少女 あげた N/A ボール N/A リアム N/A N/A 
+オリバー あげた N/A 人間 N/A N/A 飾り額 N/A 本 N/A N/A 
+N/A 本 N/A 返され N/A N/A 猿 N/A N/A 
+N/A 子供 あげた N/A 結晶 N/A N/A ステージ N/A リアム N/A N/A 
+ハーパー あげた N/A 本 N/A N/A 子供 N/A N/A 
+N/A 本 N/A 転送され N/A N/A ディーラー N/A N/A 落とし穴 N/A リアム N/A N/A 
