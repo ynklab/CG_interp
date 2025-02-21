@@ -1,0 +1,6 @@
+torch==2.3.0
+tqdm
+einops
+torchtext
+torchdata==0.8.0
+concept_erasure
