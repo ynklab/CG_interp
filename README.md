@@ -10,22 +10,22 @@ pip install -r requirements.txt
 ### Train a base model
 Train a base model for the pattern `[PATTERN_NAME]` and task `[TASK_NAME]`.
 ```
-python src/train.sh [PATTERN_NAME] [TASK_NAME] [SEED]
+python scripts/train.sh [PATTERN_NAME] [TASK_NAME] [SEED]
 ```
 ### Subnetwork probing
 Apply subnetwork probing for the pattern `[PATTERN_NAME]`, task `[TASK_NAME]`, and `[EPOCH_NUM]` epoch trained base model.
 ```
-python src/subnetwork_probe.sh [PATTERN_NAME] [TASK_NAME] [EPOCH_NUM] [SEED]
+python scripts/subnetwork_probe.sh [PATTERN_NAME] [TASK_NAME] [EPOCH_NUM] [SEED]
 ```
 ### Concept scrubbing
 Apply concept scrubbing for the pattern `[PATTERN_NAME]`, task `[TASK_NAME]`, and `[EPOCH_NUM]` epoch trained base model.
 ```
-python src/scrub.sh [PATTERN_NAME] [TASK_NAME] [EPOCH_NUM] [SEED]
+python scripts/scrub.sh [PATTERN_NAME] [TASK_NAME] [EPOCH_NUM] [SEED]
 ```
 ### Evaluate models
 Evaluate models trained for the pattern `[PATTERN_NAME]`, task `[TASK_NAME]`, and `[EPOCH_NUM]` epochs.
 ```
-python src/evaluate.sh [PATTERN_NAME] [TASK_NAME] [EPOCH_NUM] [SEED]
+python scripts/evaluate.sh [PATTERN_NAME] [TASK_NAME] [EPOCH_NUM] [SEED]
 ```
 ## Directory Structure
 This repository follows the structure below:
