@@ -359,7 +359,7 @@ def gen_split(opts):
     '''
     split the generalization set for training masks for pruning
     '''
-    gen_src_ja_path = f"{opts.data_path}/gen_entxt"
+    gen_src_ja_path = f"{opts.data_path}/gen_en.txt"
     gen_tgt_ja_path = f"{opts.data_path}/gen_ja.txt"
     gen_tgt_cogs_path = f"{opts.data_path}/gen_lf.txt"
     

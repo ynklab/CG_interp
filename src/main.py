@@ -452,11 +452,11 @@ if __name__ == "__main__":
     parser.add_argument("--pos_enc", type=str, default="default",)
     parser.add_argument("--hint", type=str, default="default",
                         help="Set true to run hint")
-    parser.add_argument("-e", "--epochs", type=int, default=30,
+    parser.add_argument("-e", "--epochs", type=int, default=500,
                         help="Epochs")
     parser.add_argument("--lr", type=float, default=1e-4,
                         help="Default learning rate")
-    parser.add_argument("--weight_decay", type=float, default=0.0001)
+    parser.add_argument("--weight_decay", type=float, default=0.1)
     parser.add_argument("--batch", type=int, default=128,
                         help="Batch size")
     parser.add_argument("--backend", type=str, default="gpu",
@@ -469,11 +469,11 @@ if __name__ == "__main__":
                         help="Set true to run masked")
     
     # Transformer settings
-    parser.add_argument("--attn_heads", type=int, default=8,
+    parser.add_argument("--attn_heads", type=int, default=4,
                         help="Number of attention heads")
-    parser.add_argument("--enc_layers", type=int, default=6,
+    parser.add_argument("--enc_layers", type=int, default=3,
                         help="Number of encoder layers")
-    parser.add_argument("--dec_layers", type=int, default=6,
+    parser.add_argument("--dec_layers", type=int, default=3,
                         help="Number of decoder layers")
     parser.add_argument("--embed_size", type=int, default=512,
                         help="Size of the language embedding")
